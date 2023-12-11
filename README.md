@@ -23,17 +23,17 @@ The following software and R packages were employed for the analyses:
   - RAxML/8.2.9
   - vcftools/0.1.16
  
-* R packages
-    - poppr
-    - adegenet
-    - vcfR
+* R/v.4.1.3 packages
+    - poppr/v.2.9.3 
+    - adegenet/v.2.0.2
+    - vcfR/v.1.12.0 
     - ade4
     - rlang
-    - ggplot2
+    - ggplot2/v.3.4.2 
     - tidyr
-    - MASS
+    - MASS/v.7.3-55 
     - dplyr
-    - dartR
+    - dartR/v.2.0.4 
     - ggpubr
 
 
