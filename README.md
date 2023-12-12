@@ -44,7 +44,7 @@ Files used for analyses are provided in the dataset folder.
 
 Reference-based alignments were performed using two transcriptomes of _R. elongatum_ Ehrh. ex Frisvoll [(ID: ABCD)](https://www.ncbi.nlm.nih.gov/biosample/SAMEA104170995/) and _R. varium_ (Mitt.) A.Jaeger [(ID: RDOO)](https://www.ncbi.nlm.nih.gov/biosample/?term=Racomitrium+varium) (Carpenter et al., 2019; Leebens-Mack et al., 2019).
 
-# 4. Citation
+## 4. Citation
 If you use part or the entire code in your work, please cite it using the following referece: AVAILABLE SOON.
 
 > [!NOTE]
