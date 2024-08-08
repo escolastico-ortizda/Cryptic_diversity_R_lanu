@@ -38,7 +38,7 @@ The following software and R packages were employed for the analyses:
 
 
 ## 3. Data availability
-The sequence data is available on the Sequence Read Archive repository (NCBI) under the BioProject PRJNA1023519. The sequence accession numbers for the samples include SRR26265052 to SRR26265159. Previously published sequences added to our dataset can be retrieved from the [BioProject PRJNA735773](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA735773).
+The sequence data is available on the Sequence Read Archive repository (NCBI) under the [BioProject PRJNA1023519](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1023519). The sequence accession numbers for the samples include SRR26265052 to SRR26265159. Previously published sequences added to our dataset can be retrieved from the [BioProject PRJNA735773](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA735773).
 
 Files used for analyses are provided in the dataset folder.
 
