@@ -1,0 +1,1756 @@
+populations v2.5, executed 2023-02-28 15:31:17 (zlib-1.2.11)
+populations -P /home/labvilla/amsip1/Dennis_Clonality_Chapter_II/4_alignment/gstacks_reference_t125_all_235_samples/ -M /home/labvilla/amsip1/Dennis_Clonality_Chapter_II/2_info/3_popmaps/popmap_all_230_samples.txt --max-obs-het 0 -R 20 --min-maf 0.05 --vcf --radpainter --structure -O /home/labvilla/amsip1/Dennis_Clonality_Chapter_II/6_populations/R20_230_samples_t125/
+Locus/sample distributions will be written to '/home/labvilla/amsip1/Dennis_Clonality_Chapter_II/6_populations/R20_230_samples_t125/populations.log.distribs'.
+populations parameters selected:
+  Percent samples limit per population: 0
+  Locus Population limit: 1
+  Percent samples overall: 0.2
+  Minor allele frequency cutoff: 0.05
+  Maximum observed heterozygosity cutoff: 0
+  Applying Fst correction: none.
+  Pi/Fis kernel smoothing: off
+  Fstats kernel smoothing: off
+  Bootstrap resampling: off
+
+Parsing population map...
+The population map contained 230 samples, 230 population(s), 1 group(s).
+Working on 230 samples.
+Working on 230 population(s):
+    D1203_SWEDEN_Angermanland: D1203_SWEDEN_Angermanland
+    D1204_SWEDEN_Lycksele-Lappmark: D1204_SWEDEN_Lycksele-Lappmark
+    D1206_SWEDEN_Pite-Lappmark: D1206_SWEDEN_Pite-Lappmark
+    D1207_SWEDEN_Pite-Lappmark: D1207_SWEDEN_Pite-Lappmark
+    D1289_SWEDEN_Smaland: D1289_SWEDEN_Smaland
+    D1291_SWEDEN_Sodermanland: D1291_SWEDEN_Sodermanland
+    D1292_SWEDEN_Uppland: D1292_SWEDEN_Uppland
+    D1293_SWEDEN_Uppland: D1293_SWEDEN_Uppland
+    D1295_SWEDEN_Vastmanland: D1295_SWEDEN_Vastmanland
+    D1297_SWEDEN_Dalarna: D1297_SWEDEN_Dalarna
+    D1298_SWEDEN_Halsingland: D1298_SWEDEN_Halsingland
+    D1301_SWEDEN_Harjedalen: D1301_SWEDEN_Harjedalen
+    D1302_SWEDEN_Jamtland: D1302_SWEDEN_Jamtland
+    D1306_SWEDEN_Jamtland: D1306_SWEDEN_Jamtland
+    D1312_SWEDEN_Lycksele-lappmark: D1312_SWEDEN_Lycksele-lappmark
+    D1318_SWEDEN_Pite-Lappmark: D1318_SWEDEN_Pite-Lappmark
+    D1319_SWEDEN_Pite-Lappmark: D1319_SWEDEN_Pite-Lappmark
+    JC1464_CANADA_Quebec: JC1464_CANADA_Quebec
+    JC1465_CANADA_Quebec: JC1465_CANADA_Quebec
+    JC1466_CANADA_Quebec: JC1466_CANADA_Quebec
+    JC1467_CANADA_Quebec: JC1467_CANADA_Quebec
+    JC1468_CANADA_Quebec: JC1468_CANADA_Quebec
+    JC1469_CANADA_Quebec: JC1469_CANADA_Quebec
+    JC1470_CANADA_Quebec: JC1470_CANADA_Quebec
+    JC1471_CANADA_Quebec: JC1471_CANADA_Quebec
+    JC1472_CANADA_Quebec: JC1472_CANADA_Quebec
+    JC1473_CANADA_Quebec: JC1473_CANADA_Quebec
+    JC1474_CANADA_Quebec: JC1474_CANADA_Quebec
+    JC1475_CANADA_Quebec: JC1475_CANADA_Quebec
+    JC1477_CANADA_Quebec: JC1477_CANADA_Quebec
+    JC1479_CANADA_Quebec: JC1479_CANADA_Quebec
+    JC1480_CANADA_Quebec: JC1480_CANADA_Quebec
+    JC1482_CANADA_Quebec: JC1482_CANADA_Quebec
+    JC1485_CANADA_Quebec: JC1485_CANADA_Quebec
+    JC1486_CANADA_Quebec: JC1486_CANADA_Quebec
+    JC1487_CANADA_Quebec: JC1487_CANADA_Quebec
+    JC1490_CANADA_Quebec: JC1490_CANADA_Quebec
+    JC1493_Alaska_Attu: JC1493_Alaska_Attu
+    JC1494_Alaska_MudCreek: JC1494_Alaska_MudCreek
+    JC1495_Alaska_Kodiak: JC1495_Alaska_Kodiak
+    JC1496_Alaska_Sandy: JC1496_Alaska_Sandy
+    JC1498_Alaska_Tyonek: JC1498_Alaska_Tyonek
+    JC1499_Alaska_Selawik: JC1499_Alaska_Selawik
+    JC1500_Alaska_Afognak: JC1500_Alaska_Afognak
+    JC1501_Alaska_Kodiak: JC1501_Alaska_Kodiak
+    JC1502_Alaska_Anchorage: JC1502_Alaska_Anchorage
+    JC1503_Alaska_Auletian: JC1503_Alaska_Auletian
+    JC1505_Alaska_PassCreek: JC1505_Alaska_PassCreek
+    JC1506_Alaska_Auletian: JC1506_Alaska_Auletian
+    JC1508_Alaska_BigCreek: JC1508_Alaska_BigCreek
+    JC1509_Alaska_BigCreek: JC1509_Alaska_BigCreek
+    JC1511_Alaska_Auletian: JC1511_Alaska_Auletian
+    JC1513_CANADA_Quebec: JC1513_CANADA_Quebec
+    JC1514_Alaska_MudCreek: JC1514_Alaska_MudCreek
+    JC1517_CANADA_NewFoundland: JC1517_CANADA_NewFoundland
+    JC1518_Alaska_FarNorth: JC1518_Alaska_FarNorth
+    JC1519_Alaska_FarNorth: JC1519_Alaska_FarNorth
+    JC1520_Alaska_FarNorth: JC1520_Alaska_FarNorth
+    JC1521_Alaska_FarNorth: JC1521_Alaska_FarNorth
+    JC1522_Alaska_FarNorth: JC1522_Alaska_FarNorth
+    JC1524_GREENLAND_Wollaston: JC1524_GREENLAND_Wollaston
+    JC1526_GREENLAND_Wollaston: JC1526_GREENLAND_Wollaston
+    JC1528_GREENLAND_Kobbefjord: JC1528_GREENLAND_Kobbefjord
+    JC1529_GREENLAND_Kobbefjord: JC1529_GREENLAND_Kobbefjord
+    JC1530_GREENLAND_Nuuk: JC1530_GREENLAND_Nuuk
+    JC1533_CANADA_Quebec: JC1533_CANADA_Quebec
+    JC1535_CANADA_Quebec: JC1535_CANADA_Quebec
+    JC1537_CANADA_Quebec: JC1537_CANADA_Quebec
+    JC1538_Alaska_: JC1538_Alaska_
+    JC1539_Alaska_Kodiak: JC1539_Alaska_Kodiak
+    JC2165_CANADA_Labrador: JC2165_CANADA_Labrador
+    JC2779_CANADA_Quebec: JC2779_CANADA_Quebec
+    JC2782_PORTUGAL_Braga: JC2782_PORTUGAL_Braga
+    JC2788_369-A1: JC2788_369-A1
+    JC2789_370-A1: JC2789_370-A1
+    JC2790_371-A1: JC2790_371-A1
+    JC2791_375-A1: JC2791_375-A1
+    JC2792_378-A1: JC2792_378-A1
+    JC2793_379-A1: JC2793_379-A1
+    JC2794_380-A1: JC2794_380-A1
+    JC2795_382-A1: JC2795_382-A1
+    JC2796_383-A1: JC2796_383-A1
+    JC2797_385-A1: JC2797_385-A1
+    JC2798_386-A1: JC2798_386-A1
+    JC2799_387-A1: JC2799_387-A1
+    JC2800_388-A1: JC2800_388-A1
+    JC2801_389-A1: JC2801_389-A1
+    JC2802_398-A1: JC2802_398-A1
+    JC2803_399-A1: JC2803_399-A1
+    JC2804_401-A1: JC2804_401-A1
+    JC2805_402-A1: JC2805_402-A1
+    JC2806_407-A1: JC2806_407-A1
+    JC2807_408-A1: JC2807_408-A1
+    JC2809_CANADA_Quebec: JC2809_CANADA_Quebec
+    JC2810_GREENLAND_Kobbefjord: JC2810_GREENLAND_Kobbefjord
+    JC2811_GREENLAND_Wollaston: JC2811_GREENLAND_Wollaston
+    JC2813_Alaska_FarNorth: JC2813_Alaska_FarNorth
+    JC2814_Alaska_BigCreek: JC2814_Alaska_BigCreek
+    JC2815_Alaska_BigCreek: JC2815_Alaska_BigCreek
+    JC2816_Alaska_BigCreek: JC2816_Alaska_BigCreek
+    JC2818_Alaska_Bering: JC2818_Alaska_Bering
+    JC2820_CANADA_Quebec: JC2820_CANADA_Quebec
+    JC2821_CANADA_Quebec: JC2821_CANADA_Quebec
+    JC2823_CANADA_Nunavut: JC2823_CANADA_Nunavut
+    JC2824_CANADA_Nunavut: JC2824_CANADA_Nunavut
+    JC2825_CANADA_Nunavut: JC2825_CANADA_Nunavut
+    JC2826_CANADA_Nunavut: JC2826_CANADA_Nunavut
+    JC2827_CANADA_Nunavut: JC2827_CANADA_Nunavut
+    JC2828_CANADA_Quebec: JC2828_CANADA_Quebec
+    JC2829_CANADA_Ontario: JC2829_CANADA_Ontario
+    JC2830_Alaska_Auletian: JC2830_Alaska_Auletian
+    JC2831_Alaska_Auletian: JC2831_Alaska_Auletian
+    JC2832_CANADA_Ontario: JC2832_CANADA_Ontario
+    JC2833_CANADA_Ontario: JC2833_CANADA_Ontario
+    JC2834_CANADA_Ontario: JC2834_CANADA_Ontario
+    JC2835_CANADA_Ontario: JC2835_CANADA_Ontario
+    JC2836_CANADA_Ontario: JC2836_CANADA_Ontario
+    JC2837_CANADA_Ontario: JC2837_CANADA_Ontario
+    JC2839_CANADA_Quebec: JC2839_CANADA_Quebec
+    JC2840_CANADA_Quebec: JC2840_CANADA_Quebec
+    JC2841_CANADA_Quebec: JC2841_CANADA_Quebec
+    JC2842_CANADA_Labrador: JC2842_CANADA_Labrador
+    JC2843_CANADA_Quebec: JC2843_CANADA_Quebec
+    JC2844_CANADA_Quebec: JC2844_CANADA_Quebec
+    JC2853_370_A5: JC2853_370_A5
+    JC2859_375_A5: JC2859_375_A5
+    JC2861_378_E1: JC2861_378_E1
+    JC2875_385_E1: JC2875_385_E1
+    JC2878_386_E1: JC2878_386_E1
+    JC2906_402-A5: JC2906_402-A5
+    JC2911_408-A5: JC2911_408-A5
+    JC2917_412-A5: JC2917_412-A5
+    JC2926_411-A1: JC2926_411-A1
+    JC2927_412-A1: JC2927_412-A1
+    JC2928_415-A1: JC2928_415-A1
+    JC2929_415-E1: JC2929_415-E1
+    JC2930_416-A1: JC2930_416-A1
+    JC2931_417-A1: JC2931_417-A1
+    JC2932_369-E1: JC2932_369-E1
+    JC2933_370-E1: JC2933_370-E1
+    JC2934_371-E1: JC2934_371-E1
+    JC2935_375-E1: JC2935_375-E1
+    JC2937_379-E1: JC2937_379-E1
+    JC2938_380-E1: JC2938_380-E1
+    JC2939_382-E1: JC2939_382-E1
+    JC2940_383-E1: JC2940_383-E1
+    JC2943_387-E1: JC2943_387-E1
+    JC2944_388-E1: JC2944_388-E1
+    JC2945_389-E1: JC2945_389-E1
+    JC2947_399-E1: JC2947_399-E1
+    JC2948_401-E1: JC2948_401-E1
+    JC2949_402-E1: JC2949_402-E1
+    JC2950_407-E1: JC2950_407-E1
+    JC2951_411-E1: JC2951_411-E1
+    JC2952_412-E1: JC2952_412-E1
+    JC2953_416-E1: JC2953_416-E1
+    JC2954_417-E1: JC2954_417-E1
+    JC2955_369-A5: JC2955_369-A5
+    JC2956_371-A5: JC2956_371-A5
+    JC2958_378-A5: JC2958_378-A5
+    JC2959_379-A5: JC2959_379-A5
+    JC2960_380-A5: JC2960_380-A5
+    JC2961_382-A5: JC2961_382-A5
+    JC2962_383-A5: JC2962_383-A5
+    JC2963_385-A5: JC2963_385-A5
+    JC3085_408-E1: JC3085_408-E1
+    JC3086_386-A5: JC3086_386-A5
+    JC3087_387-A5: JC3087_387-A5
+    JC3088_388-A5: JC3088_388-A5
+    JC3089_389-A5: JC3089_389-A5
+    JC3090_398-A5: JC3090_398-A5
+    JC3091_399-A5: JC3091_399-A5
+    JC3210_401-A5: JC3210_401-A5
+    JC3212_407-A5: JC3212_407-A5
+    JC3214_411-A5: JC3214_411-A5
+    JC3216_415-A5: JC3216_415-A5
+    JC3218_417-A5: JC3218_417-A5
+    JC3234_393-A1: JC3234_393-A1
+    JC3235_393-A2: JC3235_393-A2
+    JC3236_393-A3: JC3236_393-A3
+    JC3237_393-A4: JC3237_393-A4
+    JC3238_393-A5: JC3238_393-A5
+    JC3239_393-B1: JC3239_393-B1
+    JC3240_393-B2: JC3240_393-B2
+    JC3241_393-B3: JC3241_393-B3
+    JC3243_393-B5: JC3243_393-B5
+    JC3244_393-C1: JC3244_393-C1
+    JC3245_393-C2: JC3245_393-C2
+    JC3246_393-C3: JC3246_393-C3
+    JC3247_393-C4: JC3247_393-C4
+    JC3248_393-C5: JC3248_393-C5
+    JC3249_393-D1: JC3249_393-D1
+    JC3250_393-D2: JC3250_393-D2
+    JC3251_393-D3: JC3251_393-D3
+    JC3252_393-D4: JC3252_393-D4
+    JC3254_393-E1: JC3254_393-E1
+    JC3256_393-E3: JC3256_393-E3
+    JC3257_393-E4: JC3257_393-E4
+    JC3258_393-E5: JC3258_393-E5
+    JC3259_414-A1: JC3259_414-A1
+    JC3260_414-A2: JC3260_414-A2
+    JC3261_414-A3: JC3261_414-A3
+    JC3265_414-B4: JC3265_414-B4
+    JC3268_414-C2: JC3268_414-C2
+    JC3269_414-C3: JC3269_414-C3
+    JC3270_414-C4: JC3270_414-C4
+    JC3273_414-E1: JC3273_414-E1
+    JC3274_414-E2: JC3274_414-E2
+    JC3280_393-B4: JC3280_393-B4
+    JC3281_393-E2: JC3281_393-E2
+    JC3282_414-B2: JC3282_414-B2
+    JC3283_414-B3: JC3283_414-B3
+    JC3284_414-D1: JC3284_414-D1
+    JC3285_414-D2: JC3285_414-D2
+    JC3286_414-D3: JC3286_414-D3
+    JC3287_414-D4: JC3287_414-D4
+    JC3288_414-D5: JC3288_414-D5
+    JC3289_414-E3: JC3289_414-E3
+    JC3290_414-E4: JC3290_414-E4
+    JC3291_414-A5: JC3291_414-A5
+    JC3292_414-B1: JC3292_414-B1
+    JC3293_414-C1: JC3293_414-C1
+    JC3294_414-E5: JC3294_414-E5
+    JC3295_414-C5: JC3295_414-C5
+    JC3299_414-A4: JC3299_414-A4
+    JC3300_414-B5: JC3300_414-B5
+    JC3301_398-E1: JC3301_398-E1
+    JC3302_393-D5: JC3302_393-D5
+    JC3303_416-A5: JC3303_416-A5
+    R_pruinosum_D1504_AUSTRALIA_New-South-Wales: R_pruinosum_D1504_AUSTRALIA_New-South-Wales
+Working on 1 group(s) of populations:
+    defaultgrp: D1203_SWEDEN_Angermanland, D1204_SWEDEN_Lycksele-Lappmark, D1206_SWEDEN_Pite-Lappmark, D1207_SWEDEN_Pite-Lappmark, D1289_SWEDEN_Smaland, D1291_SWEDEN_Sodermanland, D1292_SWEDEN_Uppland, D1293_SWEDEN_Uppland, D1295_SWEDEN_Vastmanland, D1297_SWEDEN_Dalarna, D1298_SWEDEN_Halsingland, D1301_SWEDEN_Harjedalen, D1302_SWEDEN_Jamtland, D1306_SWEDEN_Jamtland, D1312_SWEDEN_Lycksele-lappmark, D1318_SWEDEN_Pite-Lappmark, D1319_SWEDEN_Pite-Lappmark, JC1464_CANADA_Quebec, JC1465_CANADA_Quebec, JC1466_CANADA_Quebec, JC1467_CANADA_Quebec, JC1468_CANADA_Quebec, JC1469_CANADA_Quebec, JC1470_CANADA_Quebec, JC1471_CANADA_Quebec, JC1472_CANADA_Quebec, JC1473_CANADA_Quebec, JC1474_CANADA_Quebec, JC1475_CANADA_Quebec, JC1477_CANADA_Quebec, JC1479_CANADA_Quebec, JC1480_CANADA_Quebec, JC1482_CANADA_Quebec, JC1485_CANADA_Quebec, JC1486_CANADA_Quebec, JC1487_CANADA_Quebec, JC1490_CANADA_Quebec, JC1493_Alaska_Attu, JC1494_Alaska_MudCreek, JC1495_Alaska_Kodiak, JC1496_Alaska_Sandy, JC1498_Alaska_Tyonek, JC1499_Alaska_Selawik, JC1500_Alaska_Afognak, JC1501_Alaska_Kodiak, JC1502_Alaska_Anchorage, JC1503_Alaska_Auletian, JC1505_Alaska_PassCreek, JC1506_Alaska_Auletian, JC1508_Alaska_BigCreek, JC1509_Alaska_BigCreek, JC1511_Alaska_Auletian, JC1513_CANADA_Quebec, JC1514_Alaska_MudCreek, JC1517_CANADA_NewFoundland, JC1518_Alaska_FarNorth, JC1519_Alaska_FarNorth, JC1520_Alaska_FarNorth, JC1521_Alaska_FarNorth, JC1522_Alaska_FarNorth, JC1524_GREENLAND_Wollaston, JC1526_GREENLAND_Wollaston, JC1528_GREENLAND_Kobbefjord, JC1529_GREENLAND_Kobbefjord, JC1530_GREENLAND_Nuuk, JC1533_CANADA_Quebec, JC1535_CANADA_Quebec, JC1537_CANADA_Quebec, JC1538_Alaska_, JC1539_Alaska_Kodiak, JC2165_CANADA_Labrador, JC2779_CANADA_Quebec, JC2782_PORTUGAL_Braga, JC2788_369-A1, JC2789_370-A1, JC2790_371-A1, JC2791_375-A1, JC2792_378-A1, JC2793_379-A1, JC2794_380-A1, JC2795_382-A1, JC2796_383-A1, JC2797_385-A1, JC2798_386-A1, JC2799_387-A1, JC2800_388-A1, JC2801_389-A1, JC2802_398-A1, JC2803_399-A1, JC2804_401-A1, JC2805_402-A1, JC2806_407-A1, JC2807_408-A1, JC2809_CANADA_Quebec, JC2810_GREENLAND_Kobbefjord, JC2811_GREENLAND_Wollaston, JC2813_Alaska_FarNorth, JC2814_Alaska_BigCreek, JC2815_Alaska_BigCreek, JC2816_Alaska_BigCreek, JC2818_Alaska_Bering, JC2820_CANADA_Quebec, JC2821_CANADA_Quebec, JC2823_CANADA_Nunavut, JC2824_CANADA_Nunavut, JC2825_CANADA_Nunavut, JC2826_CANADA_Nunavut, JC2827_CANADA_Nunavut, JC2828_CANADA_Quebec, JC2829_CANADA_Ontario, JC2830_Alaska_Auletian, JC2831_Alaska_Auletian, JC2832_CANADA_Ontario, JC2833_CANADA_Ontario, JC2834_CANADA_Ontario, JC2835_CANADA_Ontario, JC2836_CANADA_Ontario, JC2837_CANADA_Ontario, JC2839_CANADA_Quebec, JC2840_CANADA_Quebec, JC2841_CANADA_Quebec, JC2842_CANADA_Labrador, JC2843_CANADA_Quebec, JC2844_CANADA_Quebec, JC2853_370_A5, JC2859_375_A5, JC2861_378_E1, JC2875_385_E1, JC2878_386_E1, JC2906_402-A5, JC2911_408-A5, JC2917_412-A5, JC2926_411-A1, JC2927_412-A1, JC2928_415-A1, JC2929_415-E1, JC2930_416-A1, JC2931_417-A1, JC2932_369-E1, JC2933_370-E1, JC2934_371-E1, JC2935_375-E1, JC2937_379-E1, JC2938_380-E1, JC2939_382-E1, JC2940_383-E1, JC2943_387-E1, JC2944_388-E1, JC2945_389-E1, JC2947_399-E1, JC2948_401-E1, JC2949_402-E1, JC2950_407-E1, JC2951_411-E1, JC2952_412-E1, JC2953_416-E1, JC2954_417-E1, JC2955_369-A5, JC2956_371-A5, JC2958_378-A5, JC2959_379-A5, JC2960_380-A5, JC2961_382-A5, JC2962_383-A5, JC2963_385-A5, JC3085_408-E1, JC3086_386-A5, JC3087_387-A5, JC3088_388-A5, JC3089_389-A5, JC3090_398-A5, JC3091_399-A5, JC3210_401-A5, JC3212_407-A5, JC3214_411-A5, JC3216_415-A5, JC3218_417-A5, JC3234_393-A1, JC3235_393-A2, JC3236_393-A3, JC3237_393-A4, JC3238_393-A5, JC3239_393-B1, JC3240_393-B2, JC3241_393-B3, JC3243_393-B5, JC3244_393-C1, JC3245_393-C2, JC3246_393-C3, JC3247_393-C4, JC3248_393-C5, JC3249_393-D1, JC3250_393-D2, JC3251_393-D3, JC3252_393-D4, JC3254_393-E1, JC3256_393-E3, JC3257_393-E4, JC3258_393-E5, JC3259_414-A1, JC3260_414-A2, JC3261_414-A3, JC3265_414-B4, JC3268_414-C2, JC3269_414-C3, JC3270_414-C4, JC3273_414-E1, JC3274_414-E2, JC3280_393-B4, JC3281_393-E2, JC3282_414-B2, JC3283_414-B3, JC3284_414-D1, JC3285_414-D2, JC3286_414-D3, JC3287_414-D4, JC3288_414-D5, JC3289_414-E3, JC3290_414-E4, JC3291_414-A5, JC3292_414-B1, JC3293_414-C1, JC3294_414-E5, JC3295_414-C5, JC3299_414-A4, JC3300_414-B5, JC3301_398-E1, JC3302_393-D5, JC3303_416-A5, R_pruinosum_D1504_AUSTRALIA_New-South-Wales
+
+SNPs and calls will be written in VCF format to '/home/labvilla/amsip1/Dennis_Clonality_Chapter_II/6_populations/R20_230_samples_t125/populations.snps.vcf'
+Haplotypes will be written in VCF format to '/home/labvilla/amsip1/Dennis_Clonality_Chapter_II/6_populations/R20_230_samples_t125/populations.haps.vcf'
+Polymorphic loci in RADpainter/fineRADstructure format will be written to '/home/labvilla/amsip1/Dennis_Clonality_Chapter_II/6_populations/R20_230_samples_t125/populations.haps.radpainter'
+Polymorphic sites in Structure format will be written to '/home/labvilla/amsip1/Dennis_Clonality_Chapter_II/6_populations/R20_230_samples_t125/populations.structure'
+Raw haplotypes will be written to '/home/labvilla/amsip1/Dennis_Clonality_Chapter_II/6_populations/R20_230_samples_t125/populations.haplotypes.tsv'
+Population-level summary statistics will be written to '/home/labvilla/amsip1/Dennis_Clonality_Chapter_II/6_populations/R20_230_samples_t125/populations.sumstats.tsv'
+Population-level haplotype summary statistics will be written to '/home/labvilla/amsip1/Dennis_Clonality_Chapter_II/6_populations/R20_230_samples_t125/populations.hapstats.tsv'
+
+Processing data in batches:
+  * load a batch of catalog loci and apply filters
+  * compute SNP- and haplotype-wise per-population statistics
+  * write the above statistics in the output files
+  * export the genotypes/haplotypes in specified format(s)
+More details in '/home/labvilla/amsip1/Dennis_Clonality_Chapter_II/6_populations/R20_230_samples_t125/populations.log.distribs'.
+Now processing...
+scaffold-ABCD-2000122-Niphotrichum_elongatum 
+scaffold-ABCD-2000237-Niphotrichum_elongatum 
+scaffold-ABCD-2000442-Niphotrichum_elongatum 
+scaffold-ABCD-2000494-Niphotrichum_elongatum 
+scaffold-ABCD-2000579-Niphotrichum_elongatum 
+scaffold-ABCD-2000651-Niphotrichum_elongatum 
+scaffold-ABCD-2001220-Niphotrichum_elongatum 
+scaffold-ABCD-2001375-Niphotrichum_elongatum 
+scaffold-ABCD-2001567-Niphotrichum_elongatum 
+scaffold-ABCD-2002092-Niphotrichum_elongatum 
+scaffold-ABCD-2002229-Niphotrichum_elongatum 
+scaffold-ABCD-2002388-Niphotrichum_elongatum 
+scaffold-ABCD-2002519-Niphotrichum_elongatum 
+scaffold-ABCD-2002593-Niphotrichum_elongatum 
+scaffold-ABCD-2002747-Niphotrichum_elongatum 
+scaffold-ABCD-2002762-Niphotrichum_elongatum 
+scaffold-ABCD-2002814-Niphotrichum_elongatum 
+scaffold-ABCD-2002929-Niphotrichum_elongatum 
+scaffold-ABCD-2003071-Niphotrichum_elongatum 
+scaffold-ABCD-2003136-Niphotrichum_elongatum 
+scaffold-ABCD-2003312-Niphotrichum_elongatum 
+scaffold-ABCD-2003412-Niphotrichum_elongatum 
+scaffold-ABCD-2003458-Niphotrichum_elongatum 
+scaffold-ABCD-2003733-Niphotrichum_elongatum 
+scaffold-ABCD-2003781-Niphotrichum_elongatum 
+scaffold-ABCD-2004081-Niphotrichum_elongatum 
+scaffold-ABCD-2004252-Niphotrichum_elongatum 
+scaffold-ABCD-2004455-Niphotrichum_elongatum 
+scaffold-ABCD-2004490-Niphotrichum_elongatum 
+scaffold-ABCD-2004606-Niphotrichum_elongatum 
+scaffold-ABCD-2004657-Niphotrichum_elongatum 
+scaffold-ABCD-2004794-Niphotrichum_elongatum 
+scaffold-ABCD-2004918-Niphotrichum_elongatum 
+scaffold-ABCD-2004987-Niphotrichum_elongatum 
+scaffold-ABCD-2005227-Niphotrichum_elongatum 
+scaffold-ABCD-2005368-Niphotrichum_elongatum 
+scaffold-ABCD-2005410-Niphotrichum_elongatum 
+scaffold-ABCD-2005710-Niphotrichum_elongatum 
+scaffold-ABCD-2005870-Niphotrichum_elongatum 
+scaffold-ABCD-2005942-Niphotrichum_elongatum 
+scaffold-ABCD-2005991-Niphotrichum_elongatum 
+scaffold-ABCD-2006118-Niphotrichum_elongatum 
+scaffold-ABCD-2006223-Niphotrichum_elongatum 
+scaffold-ABCD-2006271-Niphotrichum_elongatum 
+scaffold-ABCD-2006458-Niphotrichum_elongatum 
+scaffold-ABCD-2006514-Niphotrichum_elongatum 
+scaffold-ABCD-2006607-Niphotrichum_elongatum 
+scaffold-ABCD-2006868-Niphotrichum_elongatum 
+scaffold-ABCD-2006940-Niphotrichum_elongatum 
+scaffold-ABCD-2007145-Niphotrichum_elongatum 
+scaffold-ABCD-2007456-Niphotrichum_elongatum 
+scaffold-ABCD-2007837-Niphotrichum_elongatum 
+scaffold-ABCD-2007937-Niphotrichum_elongatum 
+scaffold-ABCD-2008063-Niphotrichum_elongatum 
+scaffold-ABCD-2008185-Niphotrichum_elongatum 
+scaffold-ABCD-2008299-Niphotrichum_elongatum 
+scaffold-ABCD-2008354-Niphotrichum_elongatum 
+scaffold-ABCD-2008400-Niphotrichum_elongatum 
+scaffold-ABCD-2008439-Niphotrichum_elongatum 
+scaffold-ABCD-2008599-Niphotrichum_elongatum 
+scaffold-ABCD-2008752-Niphotrichum_elongatum 
+scaffold-ABCD-2008908-Niphotrichum_elongatum 
+scaffold-ABCD-2008935-Niphotrichum_elongatum 
+scaffold-ABCD-2008972-Niphotrichum_elongatum 
+scaffold-ABCD-2008990-Niphotrichum_elongatum 
+scaffold-ABCD-2009146-Niphotrichum_elongatum 
+scaffold-ABCD-2009156-Niphotrichum_elongatum 
+scaffold-ABCD-2009280-Niphotrichum_elongatum 
+scaffold-ABCD-2009342-Niphotrichum_elongatum 
+scaffold-ABCD-2009475-Niphotrichum_elongatum 
+scaffold-ABCD-2009476-Niphotrichum_elongatum 
+scaffold-ABCD-2009507-Niphotrichum_elongatum 
+scaffold-ABCD-2009600-Niphotrichum_elongatum 
+scaffold-ABCD-2009692-Niphotrichum_elongatum 
+scaffold-ABCD-2009843-Niphotrichum_elongatum 
+scaffold-ABCD-2009944-Niphotrichum_elongatum 
+scaffold-ABCD-2009947-Niphotrichum_elongatum 
+scaffold-ABCD-2010075-Niphotrichum_elongatum 
+scaffold-ABCD-2010354-Niphotrichum_elongatum 
+scaffold-ABCD-2010401-Niphotrichum_elongatum 
+scaffold-ABCD-2010501-Niphotrichum_elongatum 
+scaffold-ABCD-2010532-Niphotrichum_elongatum 
+scaffold-ABCD-2010564-Niphotrichum_elongatum 
+scaffold-ABCD-2010640-Niphotrichum_elongatum 
+scaffold-ABCD-2010730-Niphotrichum_elongatum 
+scaffold-ABCD-2010769-Niphotrichum_elongatum 
+scaffold-ABCD-2010796-Niphotrichum_elongatum 
+scaffold-ABCD-2010927-Niphotrichum_elongatum 
+scaffold-ABCD-2010950-Niphotrichum_elongatum 
+scaffold-ABCD-2011129-Niphotrichum_elongatum 
+scaffold-ABCD-2011188-Niphotrichum_elongatum 
+scaffold-ABCD-2011233-Niphotrichum_elongatum 
+scaffold-ABCD-2011304-Niphotrichum_elongatum 
+scaffold-ABCD-2011333-Niphotrichum_elongatum 
+scaffold-ABCD-2011339-Niphotrichum_elongatum 
+scaffold-ABCD-2011462-Niphotrichum_elongatum 
+scaffold-ABCD-2011543-Niphotrichum_elongatum 
+scaffold-ABCD-2011611-Niphotrichum_elongatum 
+scaffold-ABCD-2011669-Niphotrichum_elongatum 
+scaffold-ABCD-2011774-Niphotrichum_elongatum 
+scaffold-ABCD-2011779-Niphotrichum_elongatum 
+scaffold-ABCD-2011789-Niphotrichum_elongatum 
+scaffold-ABCD-2011882-Niphotrichum_elongatum 
+scaffold-ABCD-2011995-Niphotrichum_elongatum 
+scaffold-ABCD-2012012-Niphotrichum_elongatum 
+scaffold-ABCD-2026152-Niphotrichum_elongatum 
+scaffold-ABCD-2027150-Niphotrichum_elongatum 
+scaffold-ABCD-2028066-Niphotrichum_elongatum 
+scaffold-ABCD-2030389-Niphotrichum_elongatum 
+scaffold-ABCD-2033002-Niphotrichum_elongatum 
+scaffold-ABCD-2034755-Niphotrichum_elongatum 
+scaffold-ABCD-2036068-Niphotrichum_elongatum 
+scaffold-ABCD-2036474-Niphotrichum_elongatum 
+scaffold-ABCD-2037859-Niphotrichum_elongatum 
+scaffold-ABCD-2038879-Niphotrichum_elongatum 
+scaffold-ABCD-2039030-Niphotrichum_elongatum 
+scaffold-ABCD-2040018-Niphotrichum_elongatum 
+scaffold-ABCD-2042520-Niphotrichum_elongatum 
+scaffold-ABCD-2043282-Niphotrichum_elongatum 
+scaffold-ABCD-2044839-Niphotrichum_elongatum 
+scaffold-ABCD-2046646-Niphotrichum_elongatum 
+scaffold-ABCD-2047116-Niphotrichum_elongatum 
+scaffold-ABCD-2047295-Niphotrichum_elongatum 
+scaffold-ABCD-2047749-Niphotrichum_elongatum 
+scaffold-ABCD-2048720-Niphotrichum_elongatum 
+scaffold-ABCD-2048874-Niphotrichum_elongatum 
+scaffold-ABCD-2050283-Niphotrichum_elongatum 
+scaffold-ABCD-2051699-Niphotrichum_elongatum 
+scaffold-ABCD-2053428-Niphotrichum_elongatum 
+scaffold-ABCD-2054162-Niphotrichum_elongatum 
+scaffold-ABCD-2054682-Niphotrichum_elongatum 
+scaffold-ABCD-2055550-Niphotrichum_elongatum 
+scaffold-ABCD-2057407-Niphotrichum_elongatum 
+scaffold-ABCD-2058473-Niphotrichum_elongatum 
+scaffold-ABCD-2058613-Niphotrichum_elongatum 
+scaffold-ABCD-2058837-Niphotrichum_elongatum 
+scaffold-ABCD-2059538-Niphotrichum_elongatum 
+scaffold-ABCD-2059828-Niphotrichum_elongatum 
+scaffold-ABCD-2059998-Niphotrichum_elongatum 
+scaffold-ABCD-2061653-Niphotrichum_elongatum 
+scaffold-ABCD-2061902-Niphotrichum_elongatum 
+scaffold-ABCD-2062139-Niphotrichum_elongatum 
+scaffold-ABCD-2063067-Niphotrichum_elongatum 
+scaffold-ABCD-2063538-Niphotrichum_elongatum 
+scaffold-ABCD-2064348-Niphotrichum_elongatum 
+scaffold-ABCD-2064997-Niphotrichum_elongatum 
+scaffold-ABCD-2065289-Niphotrichum_elongatum 
+scaffold-ABCD-2065679-Niphotrichum_elongatum 
+scaffold-ABCD-2065693-Niphotrichum_elongatum 
+scaffold-ABCD-2066399-Niphotrichum_elongatum 
+scaffold-ABCD-2066521-Niphotrichum_elongatum 
+scaffold-ABCD-2066972-Niphotrichum_elongatum 
+scaffold-ABCD-2067223-Niphotrichum_elongatum 
+scaffold-ABCD-2067337-Niphotrichum_elongatum 
+scaffold-ABCD-2067696-Niphotrichum_elongatum 
+scaffold-ABCD-2067743-Niphotrichum_elongatum 
+scaffold-ABCD-2067767-Niphotrichum_elongatum 
+scaffold-ABCD-2067795-Niphotrichum_elongatum 
+scaffold-ABCD-2067816-Niphotrichum_elongatum 
+scaffold-ABCD-2068154-Niphotrichum_elongatum 
+scaffold-ABCD-2068258-Niphotrichum_elongatum 
+scaffold-ABCD-2068413-Niphotrichum_elongatum 
+scaffold-ABCD-2068645-Niphotrichum_elongatum 
+scaffold-ABCD-2068956-Niphotrichum_elongatum 
+scaffold-ABCD-2069357-Niphotrichum_elongatum 
+scaffold-ABCD-2069532-Niphotrichum_elongatum 
+scaffold-ABCD-2069740-Niphotrichum_elongatum 
+scaffold-ABCD-2070166-Niphotrichum_elongatum 
+scaffold-ABCD-2070507-Niphotrichum_elongatum 
+scaffold-ABCD-2070818-Niphotrichum_elongatum 
+scaffold-ABCD-2070936-Niphotrichum_elongatum 
+scaffold-ABCD-2070995-Niphotrichum_elongatum 
+scaffold-ABCD-2071256-Niphotrichum_elongatum 
+scaffold-ABCD-2071348-Niphotrichum_elongatum 
+scaffold-ABCD-2071420-Niphotrichum_elongatum 
+scaffold-ABCD-2071686-Niphotrichum_elongatum 
+scaffold-ABCD-2071873-Niphotrichum_elongatum 
+scaffold-ABCD-2072259-Niphotrichum_elongatum 
+scaffold-ABCD-2072541-Niphotrichum_elongatum 
+scaffold-ABCD-2072629-Niphotrichum_elongatum 
+scaffold-ABCD-2072754-Niphotrichum_elongatum 
+scaffold-ABCD-2072817-Niphotrichum_elongatum 
+scaffold-ABCD-2072939-Niphotrichum_elongatum 
+scaffold-ABCD-2073094-Niphotrichum_elongatum 
+scaffold-ABCD-2073194-Niphotrichum_elongatum 
+scaffold-ABCD-2073279-Niphotrichum_elongatum 
+scaffold-ABCD-2073357-Niphotrichum_elongatum 
+scaffold-ABCD-2073394-Niphotrichum_elongatum 
+scaffold-ABCD-2073434-Niphotrichum_elongatum 
+scaffold-ABCD-2073540-Niphotrichum_elongatum 
+scaffold-ABCD-2073561-Niphotrichum_elongatum 
+scaffold-ABCD-2073902-Niphotrichum_elongatum 
+scaffold-ABCD-2073934-Niphotrichum_elongatum 
+scaffold-ABCD-2074011-Niphotrichum_elongatum 
+scaffold-ABCD-2074025-Niphotrichum_elongatum 
+scaffold-ABCD-2074110-Niphotrichum_elongatum 
+scaffold-ABCD-2074164-Niphotrichum_elongatum 
+scaffold-ABCD-2074193-Niphotrichum_elongatum 
+scaffold-ABCD-2074284-Niphotrichum_elongatum 
+scaffold-ABCD-2074392-Niphotrichum_elongatum 
+scaffold-ABCD-2074404-Niphotrichum_elongatum 
+scaffold-ABCD-2074443-Niphotrichum_elongatum 
+scaffold-ABCD-2074475-Niphotrichum_elongatum 
+scaffold-ABCD-2074633-Niphotrichum_elongatum 
+scaffold-ABCD-2074714-Niphotrichum_elongatum 
+scaffold-ABCD-2074777-Niphotrichum_elongatum 
+scaffold-ABCD-2074908-Niphotrichum_elongatum 
+scaffold-ABCD-2075058-Niphotrichum_elongatum 
+scaffold-ABCD-2075123-Niphotrichum_elongatum 
+scaffold-ABCD-2075214-Niphotrichum_elongatum 
+scaffold-ABCD-2075478-Niphotrichum_elongatum 
+scaffold-ABCD-2075623-Niphotrichum_elongatum 
+scaffold-ABCD-2075666-Niphotrichum_elongatum 
+scaffold-ABCD-2075695-Niphotrichum_elongatum 
+scaffold-ABCD-2075756-Niphotrichum_elongatum 
+scaffold-ABCD-2075767-Niphotrichum_elongatum 
+scaffold-ABCD-2075852-Niphotrichum_elongatum 
+scaffold-ABCD-2075877-Niphotrichum_elongatum 
+scaffold-ABCD-2075960-Niphotrichum_elongatum 
+scaffold-ABCD-2076005-Niphotrichum_elongatum 
+scaffold-ABCD-2076094-Niphotrichum_elongatum 
+scaffold-ABCD-2076158-Niphotrichum_elongatum 
+scaffold-ABCD-2076191-Niphotrichum_elongatum 
+scaffold-ABCD-2076222-Niphotrichum_elongatum 
+scaffold-ABCD-2076286-Niphotrichum_elongatum 
+scaffold-ABCD-2076306-Niphotrichum_elongatum 
+scaffold-ABCD-2076352-Niphotrichum_elongatum 
+scaffold-ABCD-2076475-Niphotrichum_elongatum 
+scaffold-ABCD-2076514-Niphotrichum_elongatum 
+scaffold-ABCD-2076580-Niphotrichum_elongatum 
+scaffold-ABCD-2076644-Niphotrichum_elongatum 
+scaffold-ABCD-2076780-Niphotrichum_elongatum 
+scaffold-ABCD-2076802-Niphotrichum_elongatum 
+scaffold-ABCD-2076937-Niphotrichum_elongatum 
+scaffold-ABCD-2077047-Niphotrichum_elongatum 
+scaffold-ABCD-2077200-Niphotrichum_elongatum 
+scaffold-ABCD-2077211-Niphotrichum_elongatum 
+scaffold-ABCD-2077235-Niphotrichum_elongatum 
+scaffold-ABCD-2077267-Niphotrichum_elongatum 
+scaffold-ABCD-2077335-Niphotrichum_elongatum 
+scaffold-ABCD-2077374-Niphotrichum_elongatum 
+scaffold-ABCD-2077388-Niphotrichum_elongatum 
+scaffold-ABCD-2077574-Niphotrichum_elongatum 
+scaffold-ABCD-2077652-Niphotrichum_elongatum 
+scaffold-ABCD-2077694-Niphotrichum_elongatum 
+scaffold-ABCD-2077726-Niphotrichum_elongatum 
+scaffold-ABCD-2077832-Niphotrichum_elongatum 
+scaffold-ABCD-2077909-Niphotrichum_elongatum 
+scaffold-ABCD-2077935-Niphotrichum_elongatum 
+scaffold-ABCD-2077987-Niphotrichum_elongatum 
+scaffold-ABCD-2078043-Niphotrichum_elongatum 
+scaffold-ABCD-2078088-Niphotrichum_elongatum 
+scaffold-ABCD-2078192-Niphotrichum_elongatum 
+scaffold-ABCD-2078207-Niphotrichum_elongatum 
+scaffold-ABCD-2078239-Niphotrichum_elongatum 
+scaffold-ABCD-2078273-Niphotrichum_elongatum 
+scaffold-ABCD-2078280-Niphotrichum_elongatum 
+scaffold-ABCD-2078346-Niphotrichum_elongatum 
+scaffold-ABCD-2078449-Niphotrichum_elongatum 
+scaffold-ABCD-2078464-Niphotrichum_elongatum 
+scaffold-ABCD-2078533-Niphotrichum_elongatum 
+scaffold-ABCD-2078572-Niphotrichum_elongatum 
+scaffold-RDOO-2000073-Racomitrium_varium 
+scaffold-RDOO-2000141-Racomitrium_varium 
+scaffold-RDOO-2000337-Racomitrium_varium 
+scaffold-RDOO-2000450-Racomitrium_varium 
+scaffold-RDOO-2000598-Racomitrium_varium 
+scaffold-RDOO-2000607-Racomitrium_varium 
+scaffold-RDOO-2000614-Racomitrium_varium 
+scaffold-RDOO-2000719-Racomitrium_varium 
+scaffold-RDOO-2000763-Racomitrium_varium 
+scaffold-RDOO-2000795-Racomitrium_varium 
+scaffold-RDOO-2000796-Racomitrium_varium 
+scaffold-RDOO-2000858-Racomitrium_varium 
+scaffold-RDOO-2001051-Racomitrium_varium 
+scaffold-RDOO-2001105-Racomitrium_varium 
+scaffold-RDOO-2001187-Racomitrium_varium 
+scaffold-RDOO-2001223-Racomitrium_varium 
+scaffold-RDOO-2001296-Racomitrium_varium 
+scaffold-RDOO-2001366-Racomitrium_varium 
+scaffold-RDOO-2001475-Racomitrium_varium 
+scaffold-RDOO-2001497-Racomitrium_varium 
+scaffold-RDOO-2001544-Racomitrium_varium 
+scaffold-RDOO-2001712-Racomitrium_varium 
+scaffold-RDOO-2001732-Racomitrium_varium 
+scaffold-RDOO-2001807-Racomitrium_varium 
+scaffold-RDOO-2001888-Racomitrium_varium 
+scaffold-RDOO-2001900-Racomitrium_varium 
+scaffold-RDOO-2001975-Racomitrium_varium 
+scaffold-RDOO-2001978-Racomitrium_varium 
+scaffold-RDOO-2002059-Racomitrium_varium 
+scaffold-RDOO-2002144-Racomitrium_varium 
+scaffold-RDOO-2002157-Racomitrium_varium 
+scaffold-RDOO-2002211-Racomitrium_varium 
+scaffold-RDOO-2002339-Racomitrium_varium 
+scaffold-RDOO-2002372-Racomitrium_varium 
+scaffold-RDOO-2002379-Racomitrium_varium 
+scaffold-RDOO-2002422-Racomitrium_varium 
+scaffold-RDOO-2002429-Racomitrium_varium 
+scaffold-RDOO-2002476-Racomitrium_varium 
+scaffold-RDOO-2002479-Racomitrium_varium 
+scaffold-RDOO-2002507-Racomitrium_varium 
+scaffold-RDOO-2002606-Racomitrium_varium 
+scaffold-RDOO-2002730-Racomitrium_varium 
+scaffold-RDOO-2002783-Racomitrium_varium 
+scaffold-RDOO-2002842-Racomitrium_varium 
+scaffold-RDOO-2002850-Racomitrium_varium 
+scaffold-RDOO-2002851-Racomitrium_varium 
+scaffold-RDOO-2002972-Racomitrium_varium 
+scaffold-RDOO-2003060-Racomitrium_varium 
+scaffold-RDOO-2003096-Racomitrium_varium 
+scaffold-RDOO-2003107-Racomitrium_varium 
+scaffold-RDOO-2003161-Racomitrium_varium 
+scaffold-RDOO-2003219-Racomitrium_varium 
+scaffold-RDOO-2003320-Racomitrium_varium 
+scaffold-RDOO-2003427-Racomitrium_varium 
+scaffold-RDOO-2003595-Racomitrium_varium 
+scaffold-RDOO-2003637-Racomitrium_varium 
+scaffold-RDOO-2003688-Racomitrium_varium 
+scaffold-RDOO-2003737-Racomitrium_varium 
+scaffold-RDOO-2003803-Racomitrium_varium 
+scaffold-RDOO-2003833-Racomitrium_varium 
+scaffold-RDOO-2003847-Racomitrium_varium 
+scaffold-RDOO-2003898-Racomitrium_varium 
+scaffold-RDOO-2003964-Racomitrium_varium 
+scaffold-RDOO-2003979-Racomitrium_varium 
+scaffold-RDOO-2004048-Racomitrium_varium 
+scaffold-RDOO-2004091-Racomitrium_varium 
+scaffold-RDOO-2004116-Racomitrium_varium 
+scaffold-RDOO-2004145-Racomitrium_varium 
+scaffold-RDOO-2004270-Racomitrium_varium 
+scaffold-RDOO-2004289-Racomitrium_varium 
+scaffold-RDOO-2004449-Racomitrium_varium 
+scaffold-RDOO-2004477-Racomitrium_varium 
+scaffold-RDOO-2004533-Racomitrium_varium 
+scaffold-RDOO-2004633-Racomitrium_varium 
+scaffold-RDOO-2004730-Racomitrium_varium 
+scaffold-RDOO-2004741-Racomitrium_varium 
+scaffold-RDOO-2004815-Racomitrium_varium 
+scaffold-RDOO-2004840-Racomitrium_varium 
+scaffold-RDOO-2004970-Racomitrium_varium 
+scaffold-RDOO-2004983-Racomitrium_varium 
+scaffold-RDOO-2005020-Racomitrium_varium 
+scaffold-RDOO-2005069-Racomitrium_varium 
+scaffold-RDOO-2005079-Racomitrium_varium 
+scaffold-RDOO-2005138-Racomitrium_varium 
+scaffold-RDOO-2005229-Racomitrium_varium 
+scaffold-RDOO-2005280-Racomitrium_varium 
+scaffold-RDOO-2005342-Racomitrium_varium 
+scaffold-RDOO-2005350-Racomitrium_varium 
+scaffold-RDOO-2005431-Racomitrium_varium 
+scaffold-RDOO-2005482-Racomitrium_varium 
+scaffold-RDOO-2005519-Racomitrium_varium 
+scaffold-RDOO-2005542-Racomitrium_varium 
+scaffold-RDOO-2005576-Racomitrium_varium 
+scaffold-RDOO-2005623-Racomitrium_varium 
+scaffold-RDOO-2005650-Racomitrium_varium 
+scaffold-RDOO-2005703-Racomitrium_varium 
+scaffold-RDOO-2005722-Racomitrium_varium 
+scaffold-RDOO-2005760-Racomitrium_varium 
+scaffold-RDOO-2005816-Racomitrium_varium 
+scaffold-RDOO-2005916-Racomitrium_varium 
+scaffold-RDOO-2005940-Racomitrium_varium 
+scaffold-RDOO-2005987-Racomitrium_varium 
+scaffold-RDOO-2006062-Racomitrium_varium 
+scaffold-RDOO-2006099-Racomitrium_varium 
+scaffold-RDOO-2006203-Racomitrium_varium 
+scaffold-RDOO-2006301-Racomitrium_varium 
+scaffold-RDOO-2006351-Racomitrium_varium 
+scaffold-RDOO-2006356-Racomitrium_varium 
+scaffold-RDOO-2006429-Racomitrium_varium 
+scaffold-RDOO-2006447-Racomitrium_varium 
+scaffold-RDOO-2006496-Racomitrium_varium 
+scaffold-RDOO-2006513-Racomitrium_varium 
+scaffold-RDOO-2006553-Racomitrium_varium 
+scaffold-RDOO-2006563-Racomitrium_varium 
+scaffold-RDOO-2006632-Racomitrium_varium 
+scaffold-RDOO-2006663-Racomitrium_varium 
+scaffold-RDOO-2006886-Racomitrium_varium 
+scaffold-RDOO-2006912-Racomitrium_varium 
+scaffold-RDOO-2006935-Racomitrium_varium 
+scaffold-RDOO-2007009-Racomitrium_varium 
+scaffold-RDOO-2007067-Racomitrium_varium 
+scaffold-RDOO-2007096-Racomitrium_varium 
+scaffold-RDOO-2007168-Racomitrium_varium 
+scaffold-RDOO-2007173-Racomitrium_varium 
+scaffold-RDOO-2007205-Racomitrium_varium 
+scaffold-RDOO-2007310-Racomitrium_varium 
+scaffold-RDOO-2007344-Racomitrium_varium 
+scaffold-RDOO-2007443-Racomitrium_varium 
+scaffold-RDOO-2007539-Racomitrium_varium 
+scaffold-RDOO-2007699-Racomitrium_varium 
+scaffold-RDOO-2007741-Racomitrium_varium 
+scaffold-RDOO-2007859-Racomitrium_varium 
+scaffold-RDOO-2007926-Racomitrium_varium 
+scaffold-RDOO-2007987-Racomitrium_varium 
+scaffold-RDOO-2008050-Racomitrium_varium 
+scaffold-RDOO-2008150-Racomitrium_varium 
+scaffold-RDOO-2008170-Racomitrium_varium 
+scaffold-RDOO-2008280-Racomitrium_varium 
+scaffold-RDOO-2008344-Racomitrium_varium 
+scaffold-RDOO-2008454-Racomitrium_varium 
+scaffold-RDOO-2008487-Racomitrium_varium 
+scaffold-RDOO-2008523-Racomitrium_varium 
+scaffold-RDOO-2008540-Racomitrium_varium 
+scaffold-RDOO-2008613-Racomitrium_varium 
+scaffold-RDOO-2008655-Racomitrium_varium 
+scaffold-RDOO-2008708-Racomitrium_varium 
+scaffold-RDOO-2008748-Racomitrium_varium 
+scaffold-RDOO-2008783-Racomitrium_varium 
+scaffold-RDOO-2008808-Racomitrium_varium 
+scaffold-RDOO-2008869-Racomitrium_varium 
+scaffold-RDOO-2008913-Racomitrium_varium 
+scaffold-RDOO-2008940-Racomitrium_varium 
+scaffold-RDOO-2009057-Racomitrium_varium 
+scaffold-RDOO-2009091-Racomitrium_varium 
+scaffold-RDOO-2009103-Racomitrium_varium 
+scaffold-RDOO-2009133-Racomitrium_varium 
+scaffold-RDOO-2009146-Racomitrium_varium 
+scaffold-RDOO-2009239-Racomitrium_varium 
+scaffold-RDOO-2009261-Racomitrium_varium 
+scaffold-RDOO-2009293-Racomitrium_varium 
+scaffold-RDOO-2009358-Racomitrium_varium 
+scaffold-RDOO-2009442-Racomitrium_varium 
+scaffold-RDOO-2009480-Racomitrium_varium 
+scaffold-RDOO-2009518-Racomitrium_varium 
+scaffold-RDOO-2009584-Racomitrium_varium 
+scaffold-RDOO-2009680-Racomitrium_varium 
+scaffold-RDOO-2009723-Racomitrium_varium 
+scaffold-RDOO-2009750-Racomitrium_varium 
+scaffold-RDOO-2009772-Racomitrium_varium 
+scaffold-RDOO-2009818-Racomitrium_varium 
+scaffold-RDOO-2009854-Racomitrium_varium 
+scaffold-RDOO-2009958-Racomitrium_varium 
+scaffold-RDOO-2009986-Racomitrium_varium 
+scaffold-RDOO-2010019-Racomitrium_varium 
+scaffold-RDOO-2010037-Racomitrium_varium 
+scaffold-RDOO-2010089-Racomitrium_varium 
+scaffold-RDOO-2010130-Racomitrium_varium 
+scaffold-RDOO-2010201-Racomitrium_varium 
+scaffold-RDOO-2010266-Racomitrium_varium 
+scaffold-RDOO-2010300-Racomitrium_varium 
+scaffold-RDOO-2010312-Racomitrium_varium 
+scaffold-RDOO-2010337-Racomitrium_varium 
+scaffold-RDOO-2010439-Racomitrium_varium 
+scaffold-RDOO-2010469-Racomitrium_varium 
+scaffold-RDOO-2010551-Racomitrium_varium 
+scaffold-RDOO-2010575-Racomitrium_varium 
+scaffold-RDOO-2010594-Racomitrium_varium 
+scaffold-RDOO-2010657-Racomitrium_varium 
+scaffold-RDOO-2010735-Racomitrium_varium 
+scaffold-RDOO-2010747-Racomitrium_varium 
+scaffold-RDOO-2010749-Racomitrium_varium 
+scaffold-RDOO-2010772-Racomitrium_varium 
+scaffold-RDOO-2010825-Racomitrium_varium 
+scaffold-RDOO-2010909-Racomitrium_varium 
+scaffold-RDOO-2010917-Racomitrium_varium 
+scaffold-RDOO-2010929-Racomitrium_varium 
+scaffold-RDOO-2010957-Racomitrium_varium 
+scaffold-RDOO-2010994-Racomitrium_varium 
+scaffold-RDOO-2011062-Racomitrium_varium 
+scaffold-RDOO-2011071-Racomitrium_varium 
+scaffold-RDOO-2011131-Racomitrium_varium 
+scaffold-RDOO-2011146-Racomitrium_varium 
+scaffold-RDOO-2011175-Racomitrium_varium 
+scaffold-RDOO-2011193-Racomitrium_varium 
+scaffold-RDOO-2011210-Racomitrium_varium 
+scaffold-RDOO-2011234-Racomitrium_varium 
+scaffold-RDOO-2011271-Racomitrium_varium 
+scaffold-RDOO-2011302-Racomitrium_varium 
+scaffold-RDOO-2011337-Racomitrium_varium 
+scaffold-RDOO-2011358-Racomitrium_varium 
+scaffold-RDOO-2011370-Racomitrium_varium 
+scaffold-RDOO-2011396-Racomitrium_varium 
+scaffold-RDOO-2011412-Racomitrium_varium 
+scaffold-RDOO-2011415-Racomitrium_varium 
+scaffold-RDOO-2011460-Racomitrium_varium 
+scaffold-RDOO-2011480-Racomitrium_varium 
+scaffold-RDOO-2011521-Racomitrium_varium 
+scaffold-RDOO-2011556-Racomitrium_varium 
+scaffold-RDOO-2011563-Racomitrium_varium 
+scaffold-RDOO-2011608-Racomitrium_varium 
+scaffold-RDOO-2011677-Racomitrium_varium 
+scaffold-RDOO-2011737-Racomitrium_varium 
+scaffold-RDOO-2011819-Racomitrium_varium 
+scaffold-RDOO-2011864-Racomitrium_varium 
+scaffold-RDOO-2011910-Racomitrium_varium 
+scaffold-RDOO-2011956-Racomitrium_varium 
+scaffold-RDOO-2012061-Racomitrium_varium 
+scaffold-RDOO-2012075-Racomitrium_varium 
+scaffold-RDOO-2012132-Racomitrium_varium 
+scaffold-RDOO-2012146-Racomitrium_varium 
+scaffold-RDOO-2012159-Racomitrium_varium 
+scaffold-RDOO-2012182-Racomitrium_varium 
+scaffold-RDOO-2012307-Racomitrium_varium 
+scaffold-RDOO-2012319-Racomitrium_varium 
+scaffold-RDOO-2012328-Racomitrium_varium 
+scaffold-RDOO-2012420-Racomitrium_varium 
+scaffold-RDOO-2012481-Racomitrium_varium 
+scaffold-RDOO-2012500-Racomitrium_varium 
+scaffold-RDOO-2012538-Racomitrium_varium 
+scaffold-RDOO-2012564-Racomitrium_varium 
+scaffold-RDOO-2012654-Racomitrium_varium 
+scaffold-RDOO-2012687-Racomitrium_varium 
+scaffold-RDOO-2012749-Racomitrium_varium 
+scaffold-RDOO-2012762-Racomitrium_varium 
+scaffold-RDOO-2012811-Racomitrium_varium 
+scaffold-RDOO-2012836-Racomitrium_varium 
+scaffold-RDOO-2012880-Racomitrium_varium 
+scaffold-RDOO-2012937-Racomitrium_varium 
+scaffold-RDOO-2012978-Racomitrium_varium 
+scaffold-RDOO-2012985-Racomitrium_varium 
+scaffold-RDOO-2013030-Racomitrium_varium 
+scaffold-RDOO-2013047-Racomitrium_varium 
+scaffold-RDOO-2013142-Racomitrium_varium 
+scaffold-RDOO-2013208-Racomitrium_varium 
+scaffold-RDOO-2013218-Racomitrium_varium 
+scaffold-RDOO-2013289-Racomitrium_varium 
+scaffold-RDOO-2013312-Racomitrium_varium 
+scaffold-RDOO-2013346-Racomitrium_varium 
+scaffold-RDOO-2013386-Racomitrium_varium 
+scaffold-RDOO-2013393-Racomitrium_varium 
+scaffold-RDOO-2013451-Racomitrium_varium 
+scaffold-RDOO-2013486-Racomitrium_varium 
+scaffold-RDOO-2013566-Racomitrium_varium 
+scaffold-RDOO-2013585-Racomitrium_varium 
+scaffold-RDOO-2013591-Racomitrium_varium 
+scaffold-RDOO-2013647-Racomitrium_varium 
+scaffold-RDOO-2013658-Racomitrium_varium 
+scaffold-RDOO-2013702-Racomitrium_varium 
+scaffold-RDOO-2013738-Racomitrium_varium 
+scaffold-RDOO-2013757-Racomitrium_varium 
+scaffold-RDOO-2013780-Racomitrium_varium 
+scaffold-RDOO-2013793-Racomitrium_varium 
+scaffold-RDOO-2013859-Racomitrium_varium 
+scaffold-RDOO-2013865-Racomitrium_varium 
+scaffold-RDOO-2013923-Racomitrium_varium 
+scaffold-RDOO-2013962-Racomitrium_varium 
+scaffold-RDOO-2013966-Racomitrium_varium 
+scaffold-RDOO-2013980-Racomitrium_varium 
+scaffold-RDOO-2014069-Racomitrium_varium 
+scaffold-RDOO-2014078-Racomitrium_varium 
+scaffold-RDOO-2014084-Racomitrium_varium 
+scaffold-RDOO-2014094-Racomitrium_varium 
+scaffold-RDOO-2014143-Racomitrium_varium 
+scaffold-RDOO-2014182-Racomitrium_varium 
+scaffold-RDOO-2014189-Racomitrium_varium 
+scaffold-RDOO-2014202-Racomitrium_varium 
+scaffold-RDOO-2014207-Racomitrium_varium 
+scaffold-RDOO-2014246-Racomitrium_varium 
+scaffold-RDOO-2014267-Racomitrium_varium 
+scaffold-RDOO-2014271-Racomitrium_varium 
+scaffold-RDOO-2014291-Racomitrium_varium 
+scaffold-RDOO-2014306-Racomitrium_varium 
+scaffold-RDOO-2014323-Racomitrium_varium 
+scaffold-RDOO-2014367-Racomitrium_varium 
+scaffold-RDOO-2014386-Racomitrium_varium 
+scaffold-RDOO-2014401-Racomitrium_varium 
+scaffold-RDOO-2014440-Racomitrium_varium 
+scaffold-RDOO-2014546-Racomitrium_varium 
+scaffold-RDOO-2014567-Racomitrium_varium 
+scaffold-RDOO-2014619-Racomitrium_varium 
+scaffold-RDOO-2014631-Racomitrium_varium 
+scaffold-RDOO-2014709-Racomitrium_varium 
+scaffold-RDOO-2014740-Racomitrium_varium 
+scaffold-RDOO-2014747-Racomitrium_varium 
+scaffold-RDOO-2014780-Racomitrium_varium 
+scaffold-RDOO-2014804-Racomitrium_varium 
+scaffold-RDOO-2014840-Racomitrium_varium 
+scaffold-RDOO-2014852-Racomitrium_varium 
+scaffold-RDOO-2014904-Racomitrium_varium 
+scaffold-RDOO-2014936-Racomitrium_varium 
+scaffold-RDOO-2014942-Racomitrium_varium 
+scaffold-RDOO-2014981-Racomitrium_varium 
+scaffold-RDOO-2015008-Racomitrium_varium 
+scaffold-RDOO-2015082-Racomitrium_varium 
+scaffold-RDOO-2015086-Racomitrium_varium 
+scaffold-RDOO-2015111-Racomitrium_varium 
+scaffold-RDOO-2015156-Racomitrium_varium 
+scaffold-RDOO-2015160-Racomitrium_varium 
+scaffold-RDOO-2015170-Racomitrium_varium 
+scaffold-RDOO-2015198-Racomitrium_varium 
+scaffold-RDOO-2015244-Racomitrium_varium 
+scaffold-RDOO-2015267-Racomitrium_varium 
+scaffold-RDOO-2015286-Racomitrium_varium 
+scaffold-RDOO-2015337-Racomitrium_varium 
+scaffold-RDOO-2015355-Racomitrium_varium 
+scaffold-RDOO-2015365-Racomitrium_varium 
+scaffold-RDOO-2015415-Racomitrium_varium 
+scaffold-RDOO-2015422-Racomitrium_varium 
+scaffold-RDOO-2015435-Racomitrium_varium 
+scaffold-RDOO-2015457-Racomitrium_varium 
+scaffold-RDOO-2015472-Racomitrium_varium 
+scaffold-RDOO-2015490-Racomitrium_varium 
+scaffold-RDOO-2015529-Racomitrium_varium 
+scaffold-RDOO-2015544-Racomitrium_varium 
+scaffold-RDOO-2015545-Racomitrium_varium 
+scaffold-RDOO-2015584-Racomitrium_varium 
+scaffold-RDOO-2015591-Racomitrium_varium 
+scaffold-RDOO-2015650-Racomitrium_varium 
+scaffold-RDOO-2015701-Racomitrium_varium 
+scaffold-RDOO-2015759-Racomitrium_varium 
+scaffold-RDOO-2015885-Racomitrium_varium 
+scaffold-RDOO-2015929-Racomitrium_varium 
+scaffold-RDOO-2015934-Racomitrium_varium 
+scaffold-RDOO-2015971-Racomitrium_varium 
+scaffold-RDOO-2015984-Racomitrium_varium 
+scaffold-RDOO-2016028-Racomitrium_varium 
+scaffold-RDOO-2016129-Racomitrium_varium 
+scaffold-RDOO-2016149-Racomitrium_varium 
+scaffold-RDOO-2016160-Racomitrium_varium 
+scaffold-RDOO-2016170-Racomitrium_varium 
+scaffold-RDOO-2016185-Racomitrium_varium 
+scaffold-RDOO-2016205-Racomitrium_varium 
+scaffold-RDOO-2016240-Racomitrium_varium 
+scaffold-RDOO-2016258-Racomitrium_varium 
+scaffold-RDOO-2016276-Racomitrium_varium 
+scaffold-RDOO-2016283-Racomitrium_varium 
+scaffold-RDOO-2016301-Racomitrium_varium 
+scaffold-RDOO-2016315-Racomitrium_varium 
+scaffold-RDOO-2016348-Racomitrium_varium 
+scaffold-RDOO-2016358-Racomitrium_varium 
+scaffold-RDOO-2016365-Racomitrium_varium 
+scaffold-RDOO-2016373-Racomitrium_varium 
+scaffold-RDOO-2016378-Racomitrium_varium 
+scaffold-RDOO-2016411-Racomitrium_varium 
+scaffold-RDOO-2016425-Racomitrium_varium 
+scaffold-RDOO-2016446-Racomitrium_varium 
+scaffold-RDOO-2016487-Racomitrium_varium 
+scaffold-RDOO-2016507-Racomitrium_varium 
+scaffold-RDOO-2016535-Racomitrium_varium 
+scaffold-RDOO-2016556-Racomitrium_varium 
+scaffold-RDOO-2016568-Racomitrium_varium 
+scaffold-RDOO-2016575-Racomitrium_varium 
+scaffold-RDOO-2016587-Racomitrium_varium 
+scaffold-RDOO-2016616-Racomitrium_varium 
+scaffold-RDOO-2016635-Racomitrium_varium 
+scaffold-RDOO-2016676-Racomitrium_varium 
+scaffold-RDOO-2016711-Racomitrium_varium 
+scaffold-RDOO-2016732-Racomitrium_varium 
+scaffold-RDOO-2016790-Racomitrium_varium 
+scaffold-RDOO-2016850-Racomitrium_varium 
+scaffold-RDOO-2016895-Racomitrium_varium 
+scaffold-RDOO-2016913-Racomitrium_varium 
+scaffold-RDOO-2016937-Racomitrium_varium 
+scaffold-RDOO-2016975-Racomitrium_varium 
+scaffold-RDOO-2016987-Racomitrium_varium 
+scaffold-RDOO-2017027-Racomitrium_varium 
+scaffold-RDOO-2017043-Racomitrium_varium 
+scaffold-RDOO-2017057-Racomitrium_varium 
+scaffold-RDOO-2017084-Racomitrium_varium 
+scaffold-RDOO-2017118-Racomitrium_varium 
+scaffold-RDOO-2017141-Racomitrium_varium 
+scaffold-RDOO-2017170-Racomitrium_varium 
+scaffold-RDOO-2017204-Racomitrium_varium 
+scaffold-RDOO-2017208-Racomitrium_varium 
+scaffold-RDOO-2017214-Racomitrium_varium 
+scaffold-RDOO-2017216-Racomitrium_varium 
+scaffold-RDOO-2017265-Racomitrium_varium 
+scaffold-RDOO-2017278-Racomitrium_varium 
+scaffold-RDOO-2017287-Racomitrium_varium 
+scaffold-RDOO-2017307-Racomitrium_varium 
+scaffold-RDOO-2017312-Racomitrium_varium 
+scaffold-RDOO-2017347-Racomitrium_varium 
+scaffold-RDOO-2017385-Racomitrium_varium 
+scaffold-RDOO-2017391-Racomitrium_varium 
+scaffold-RDOO-2017394-Racomitrium_varium 
+scaffold-RDOO-2017403-Racomitrium_varium 
+scaffold-RDOO-2017419-Racomitrium_varium 
+scaffold-RDOO-2017438-Racomitrium_varium 
+scaffold-RDOO-2017503-Racomitrium_varium 
+scaffold-RDOO-2017544-Racomitrium_varium 
+scaffold-RDOO-2017557-Racomitrium_varium 
+scaffold-RDOO-2017573-Racomitrium_varium 
+scaffold-RDOO-2017597-Racomitrium_varium 
+scaffold-RDOO-2017626-Racomitrium_varium 
+scaffold-RDOO-2017633-Racomitrium_varium 
+scaffold-RDOO-2017673-Racomitrium_varium 
+scaffold-RDOO-2017708-Racomitrium_varium 
+scaffold-RDOO-2017735-Racomitrium_varium 
+scaffold-RDOO-2017818-Racomitrium_varium 
+scaffold-RDOO-2017836-Racomitrium_varium 
+scaffold-RDOO-2017851-Racomitrium_varium 
+scaffold-RDOO-2017856-Racomitrium_varium 
+scaffold-RDOO-2017868-Racomitrium_varium 
+scaffold-RDOO-2017887-Racomitrium_varium 
+scaffold-RDOO-2017932-Racomitrium_varium 
+scaffold-RDOO-2017952-Racomitrium_varium 
+scaffold-RDOO-2017972-Racomitrium_varium 
+scaffold-RDOO-2018019-Racomitrium_varium 
+scaffold-RDOO-2018039-Racomitrium_varium 
+scaffold-RDOO-2018047-Racomitrium_varium 
+scaffold-RDOO-2018059-Racomitrium_varium 
+scaffold-RDOO-2018081-Racomitrium_varium 
+scaffold-RDOO-2018084-Racomitrium_varium 
+scaffold-RDOO-2018094-Racomitrium_varium 
+scaffold-RDOO-2018111-Racomitrium_varium 
+scaffold-RDOO-2018114-Racomitrium_varium 
+scaffold-RDOO-2018133-Racomitrium_varium 
+scaffold-RDOO-2018142-Racomitrium_varium 
+scaffold-RDOO-2018194-Racomitrium_varium 
+scaffold-RDOO-2018221-Racomitrium_varium 
+scaffold-RDOO-2018236-Racomitrium_varium 
+scaffold-RDOO-2018254-Racomitrium_varium 
+scaffold-RDOO-2018273-Racomitrium_varium 
+scaffold-RDOO-2018288-Racomitrium_varium 
+scaffold-RDOO-2018313-Racomitrium_varium 
+scaffold-RDOO-2018318-Racomitrium_varium 
+scaffold-RDOO-2018335-Racomitrium_varium 
+scaffold-RDOO-2018352-Racomitrium_varium 
+scaffold-RDOO-2018364-Racomitrium_varium 
+scaffold-RDOO-2018376-Racomitrium_varium 
+scaffold-RDOO-2018380-Racomitrium_varium 
+scaffold-RDOO-2018415-Racomitrium_varium 
+scaffold-RDOO-2018450-Racomitrium_varium 
+scaffold-RDOO-2018465-Racomitrium_varium 
+scaffold-RDOO-2018497-Racomitrium_varium 
+scaffold-RDOO-2018505-Racomitrium_varium 
+scaffold-RDOO-2018526-Racomitrium_varium 
+scaffold-RDOO-2018546-Racomitrium_varium 
+scaffold-RDOO-2018570-Racomitrium_varium 
+scaffold-RDOO-2018573-Racomitrium_varium 
+scaffold-RDOO-2018599-Racomitrium_varium 
+scaffold-RDOO-2018609-Racomitrium_varium 
+scaffold-RDOO-2018617-Racomitrium_varium 
+scaffold-RDOO-2018645-Racomitrium_varium 
+scaffold-RDOO-2018657-Racomitrium_varium 
+scaffold-RDOO-2018679-Racomitrium_varium 
+scaffold-RDOO-2018688-Racomitrium_varium 
+scaffold-RDOO-2018701-Racomitrium_varium 
+scaffold-RDOO-2018718-Racomitrium_varium 
+scaffold-RDOO-2018749-Racomitrium_varium 
+scaffold-RDOO-2018761-Racomitrium_varium 
+scaffold-RDOO-2018801-Racomitrium_varium 
+scaffold-RDOO-2018808-Racomitrium_varium 
+scaffold-RDOO-2018826-Racomitrium_varium 
+scaffold-RDOO-2018924-Racomitrium_varium 
+scaffold-RDOO-2018933-Racomitrium_varium 
+scaffold-RDOO-2018942-Racomitrium_varium 
+scaffold-RDOO-2018948-Racomitrium_varium 
+scaffold-RDOO-2018955-Racomitrium_varium 
+scaffold-RDOO-2018975-Racomitrium_varium 
+scaffold-RDOO-2018988-Racomitrium_varium 
+scaffold-RDOO-2018991-Racomitrium_varium 
+scaffold-RDOO-2019031-Racomitrium_varium 
+scaffold-RDOO-2019059-Racomitrium_varium 
+scaffold-RDOO-2019065-Racomitrium_varium 
+scaffold-RDOO-2019080-Racomitrium_varium 
+scaffold-RDOO-2019085-Racomitrium_varium 
+scaffold-RDOO-2019092-Racomitrium_varium 
+scaffold-RDOO-2019116-Racomitrium_varium 
+scaffold-RDOO-2019161-Racomitrium_varium 
+scaffold-RDOO-2019170-Racomitrium_varium 
+scaffold-RDOO-2019172-Racomitrium_varium 
+scaffold-RDOO-2019173-Racomitrium_varium 
+scaffold-RDOO-2019208-Racomitrium_varium 
+scaffold-RDOO-2019243-Racomitrium_varium 
+scaffold-RDOO-2019250-Racomitrium_varium 
+scaffold-RDOO-2019263-Racomitrium_varium 
+scaffold-RDOO-2019269-Racomitrium_varium 
+scaffold-RDOO-2019291-Racomitrium_varium 
+scaffold-RDOO-2019314-Racomitrium_varium 
+scaffold-RDOO-2019333-Racomitrium_varium 
+scaffold-RDOO-2019354-Racomitrium_varium 
+scaffold-RDOO-2019383-Racomitrium_varium 
+scaffold-RDOO-2019393-Racomitrium_varium 
+scaffold-RDOO-2019398-Racomitrium_varium 
+scaffold-RDOO-2019405-Racomitrium_varium 
+scaffold-RDOO-2019423-Racomitrium_varium 
+scaffold-RDOO-2019449-Racomitrium_varium 
+scaffold-RDOO-2019458-Racomitrium_varium 
+scaffold-RDOO-2019488-Racomitrium_varium 
+scaffold-RDOO-2019516-Racomitrium_varium 
+scaffold-RDOO-2019517-Racomitrium_varium 
+scaffold-RDOO-2019552-Racomitrium_varium 
+scaffold-RDOO-2019572-Racomitrium_varium 
+scaffold-RDOO-2019611-Racomitrium_varium 
+scaffold-RDOO-2019652-Racomitrium_varium 
+scaffold-RDOO-2019657-Racomitrium_varium 
+scaffold-RDOO-2019687-Racomitrium_varium 
+scaffold-RDOO-2019692-Racomitrium_varium 
+scaffold-RDOO-2019694-Racomitrium_varium 
+scaffold-RDOO-2019731-Racomitrium_varium 
+scaffold-RDOO-2019760-Racomitrium_varium 
+scaffold-RDOO-2019778-Racomitrium_varium 
+scaffold-RDOO-2019790-Racomitrium_varium 
+scaffold-RDOO-2019803-Racomitrium_varium 
+scaffold-RDOO-2019808-Racomitrium_varium 
+scaffold-RDOO-2019815-Racomitrium_varium 
+scaffold-RDOO-2019817-Racomitrium_varium 
+scaffold-RDOO-2019841-Racomitrium_varium 
+scaffold-RDOO-2019851-Racomitrium_varium 
+scaffold-RDOO-2019877-Racomitrium_varium 
+scaffold-RDOO-2019887-Racomitrium_varium 
+scaffold-RDOO-2019914-Racomitrium_varium 
+scaffold-RDOO-2019938-Racomitrium_varium 
+scaffold-RDOO-2019939-Racomitrium_varium 
+scaffold-RDOO-2019966-Racomitrium_varium 
+scaffold-RDOO-2019974-Racomitrium_varium 
+scaffold-RDOO-2020012-Racomitrium_varium 
+scaffold-RDOO-2020018-Racomitrium_varium 
+scaffold-RDOO-2020027-Racomitrium_varium 
+scaffold-RDOO-2020029-Racomitrium_varium 
+scaffold-RDOO-2020045-Racomitrium_varium 
+scaffold-RDOO-2020053-Racomitrium_varium 
+scaffold-RDOO-2020068-Racomitrium_varium 
+scaffold-RDOO-2020087-Racomitrium_varium 
+scaffold-RDOO-2020093-Racomitrium_varium 
+scaffold-RDOO-2020101-Racomitrium_varium 
+scaffold-RDOO-2020120-Racomitrium_varium 
+scaffold-RDOO-2020126-Racomitrium_varium 
+scaffold-RDOO-2020138-Racomitrium_varium 
+scaffold-RDOO-2020159-Racomitrium_varium 
+scaffold-RDOO-2020165-Racomitrium_varium 
+scaffold-RDOO-2020176-Racomitrium_varium 
+scaffold-RDOO-2020190-Racomitrium_varium 
+scaffold-RDOO-2020201-Racomitrium_varium 
+scaffold-RDOO-2020204-Racomitrium_varium 
+scaffold-RDOO-2020209-Racomitrium_varium 
+scaffold-RDOO-2020216-Racomitrium_varium 
+scaffold-RDOO-2020222-Racomitrium_varium 
+scaffold-RDOO-2020227-Racomitrium_varium 
+scaffold-RDOO-2020231-Racomitrium_varium 
+scaffold-RDOO-2020249-Racomitrium_varium 
+scaffold-RDOO-2020274-Racomitrium_varium 
+scaffold-RDOO-2020287-Racomitrium_varium 
+scaffold-RDOO-2020298-Racomitrium_varium 
+scaffold-RDOO-2020319-Racomitrium_varium 
+scaffold-RDOO-2020329-Racomitrium_varium 
+scaffold-RDOO-2020334-Racomitrium_varium 
+scaffold-RDOO-2020337-Racomitrium_varium 
+scaffold-RDOO-2020344-Racomitrium_varium 
+scaffold-RDOO-2020348-Racomitrium_varium 
+scaffold-RDOO-2020369-Racomitrium_varium 
+scaffold-RDOO-2020387-Racomitrium_varium 
+scaffold-RDOO-2020392-Racomitrium_varium 
+scaffold-RDOO-2020395-Racomitrium_varium 
+scaffold-RDOO-2020397-Racomitrium_varium 
+scaffold-RDOO-2020406-Racomitrium_varium 
+scaffold-RDOO-2020409-Racomitrium_varium 
+scaffold-RDOO-2020430-Racomitrium_varium 
+scaffold-RDOO-2020433-Racomitrium_varium 
+scaffold-RDOO-2020453-Racomitrium_varium 
+scaffold-RDOO-2020463-Racomitrium_varium 
+scaffold-RDOO-2020465-Racomitrium_varium 
+scaffold-RDOO-2020472-Racomitrium_varium 
+scaffold-RDOO-2020479-Racomitrium_varium 
+scaffold-RDOO-2020483-Racomitrium_varium 
+scaffold-RDOO-2020485-Racomitrium_varium 
+scaffold-RDOO-2020487-Racomitrium_varium 
+scaffold-RDOO-2020488-Racomitrium_varium 
+scaffold-RDOO-2020490-Racomitrium_varium 
+scaffold-RDOO-2020493-Racomitrium_varium 
+scaffold-RDOO-2020495-Racomitrium_varium 
+scaffold-RDOO-2032980-Racomitrium_varium 
+scaffold-RDOO-2042334-Racomitrium_varium 
+scaffold-RDOO-2044662-Racomitrium_varium 
+scaffold-RDOO-2048801-Racomitrium_varium 
+scaffold-RDOO-2049376-Racomitrium_varium 
+scaffold-RDOO-2051993-Racomitrium_varium 
+scaffold-RDOO-2053833-Racomitrium_varium 
+scaffold-RDOO-2058492-Racomitrium_varium 
+scaffold-RDOO-2060880-Racomitrium_varium 
+scaffold-RDOO-2061544-Racomitrium_varium 
+scaffold-RDOO-2061967-Racomitrium_varium 
+scaffold-RDOO-2064163-Racomitrium_varium 
+scaffold-RDOO-2065372-Racomitrium_varium 
+scaffold-RDOO-2066851-Racomitrium_varium 
+scaffold-RDOO-2067731-Racomitrium_varium 
+scaffold-RDOO-2068681-Racomitrium_varium 
+scaffold-RDOO-2069944-Racomitrium_varium 
+scaffold-RDOO-2071218-Racomitrium_varium 
+scaffold-RDOO-2072263-Racomitrium_varium 
+scaffold-RDOO-2073044-Racomitrium_varium 
+scaffold-RDOO-2073785-Racomitrium_varium 
+scaffold-RDOO-2074971-Racomitrium_varium 
+scaffold-RDOO-2075644-Racomitrium_varium 
+scaffold-RDOO-2077118-Racomitrium_varium 
+scaffold-RDOO-2077852-Racomitrium_varium 
+scaffold-RDOO-2078505-Racomitrium_varium 
+scaffold-RDOO-2078781-Racomitrium_varium 
+scaffold-RDOO-2078911-Racomitrium_varium 
+scaffold-RDOO-2080177-Racomitrium_varium 
+scaffold-RDOO-2081168-Racomitrium_varium 
+scaffold-RDOO-2081550-Racomitrium_varium 
+scaffold-RDOO-2082979-Racomitrium_varium 
+scaffold-RDOO-2083430-Racomitrium_varium 
+scaffold-RDOO-2084513-Racomitrium_varium 
+scaffold-RDOO-2084913-Racomitrium_varium 
+scaffold-RDOO-2085061-Racomitrium_varium 
+scaffold-RDOO-2086193-Racomitrium_varium 
+scaffold-RDOO-2086471-Racomitrium_varium 
+scaffold-RDOO-2086852-Racomitrium_varium 
+scaffold-RDOO-2087050-Racomitrium_varium 
+scaffold-RDOO-2088273-Racomitrium_varium 
+scaffold-RDOO-2088474-Racomitrium_varium 
+scaffold-RDOO-2088745-Racomitrium_varium 
+scaffold-RDOO-2090056-Racomitrium_varium 
+scaffold-RDOO-2090433-Racomitrium_varium 
+scaffold-RDOO-2090857-Racomitrium_varium 
+scaffold-RDOO-2091607-Racomitrium_varium 
+scaffold-RDOO-2091847-Racomitrium_varium 
+scaffold-RDOO-2092513-Racomitrium_varium 
+scaffold-RDOO-2092796-Racomitrium_varium 
+scaffold-RDOO-2092974-Racomitrium_varium 
+scaffold-RDOO-2093938-Racomitrium_varium 
+scaffold-RDOO-2094160-Racomitrium_varium 
+scaffold-RDOO-2094426-Racomitrium_varium 
+scaffold-RDOO-2094561-Racomitrium_varium 
+scaffold-RDOO-2094621-Racomitrium_varium 
+scaffold-RDOO-2094990-Racomitrium_varium 
+scaffold-RDOO-2095299-Racomitrium_varium 
+scaffold-RDOO-2096375-Racomitrium_varium 
+scaffold-RDOO-2097018-Racomitrium_varium 
+scaffold-RDOO-2097075-Racomitrium_varium 
+scaffold-RDOO-2097290-Racomitrium_varium 
+scaffold-RDOO-2097918-Racomitrium_varium 
+scaffold-RDOO-2098172-Racomitrium_varium 
+scaffold-RDOO-2098453-Racomitrium_varium 
+scaffold-RDOO-2098541-Racomitrium_varium 
+scaffold-RDOO-2098718-Racomitrium_varium 
+scaffold-RDOO-2098741-Racomitrium_varium 
+scaffold-RDOO-2098796-Racomitrium_varium 
+scaffold-RDOO-2099171-Racomitrium_varium 
+scaffold-RDOO-2099276-Racomitrium_varium 
+scaffold-RDOO-2099629-Racomitrium_varium 
+scaffold-RDOO-2099684-Racomitrium_varium 
+scaffold-RDOO-2100556-Racomitrium_varium 
+scaffold-RDOO-2100600-Racomitrium_varium 
+scaffold-RDOO-2100991-Racomitrium_varium 
+scaffold-RDOO-2101185-Racomitrium_varium 
+scaffold-RDOO-2101593-Racomitrium_varium 
+scaffold-RDOO-2101826-Racomitrium_varium 
+scaffold-RDOO-2102165-Racomitrium_varium 
+scaffold-RDOO-2102269-Racomitrium_varium 
+scaffold-RDOO-2102420-Racomitrium_varium 
+scaffold-RDOO-2102553-Racomitrium_varium 
+scaffold-RDOO-2102781-Racomitrium_varium 
+scaffold-RDOO-2103003-Racomitrium_varium 
+scaffold-RDOO-2103178-Racomitrium_varium 
+scaffold-RDOO-2103389-Racomitrium_varium 
+scaffold-RDOO-2103729-Racomitrium_varium 
+scaffold-RDOO-2104086-Racomitrium_varium 
+scaffold-RDOO-2104158-Racomitrium_varium 
+scaffold-RDOO-2104281-Racomitrium_varium 
+scaffold-RDOO-2104564-Racomitrium_varium 
+scaffold-RDOO-2104791-Racomitrium_varium 
+scaffold-RDOO-2104991-Racomitrium_varium 
+scaffold-RDOO-2105136-Racomitrium_varium 
+scaffold-RDOO-2105476-Racomitrium_varium 
+scaffold-RDOO-2105788-Racomitrium_varium 
+scaffold-RDOO-2105820-Racomitrium_varium 
+scaffold-RDOO-2106316-Racomitrium_varium 
+scaffold-RDOO-2106413-Racomitrium_varium 
+scaffold-RDOO-2106448-Racomitrium_varium 
+scaffold-RDOO-2106594-Racomitrium_varium 
+scaffold-RDOO-2106709-Racomitrium_varium 
+scaffold-RDOO-2106920-Racomitrium_varium 
+scaffold-RDOO-2107142-Racomitrium_varium 
+scaffold-RDOO-2107397-Racomitrium_varium 
+scaffold-RDOO-2107809-Racomitrium_varium 
+scaffold-RDOO-2107974-Racomitrium_varium 
+scaffold-RDOO-2108084-Racomitrium_varium 
+scaffold-RDOO-2108143-Racomitrium_varium 
+scaffold-RDOO-2108307-Racomitrium_varium 
+scaffold-RDOO-2108453-Racomitrium_varium 
+scaffold-RDOO-2108509-Racomitrium_varium 
+scaffold-RDOO-2108619-Racomitrium_varium 
+scaffold-RDOO-2108715-Racomitrium_varium 
+scaffold-RDOO-2108794-Racomitrium_varium 
+scaffold-RDOO-2109274-Racomitrium_varium 
+scaffold-RDOO-2109348-Racomitrium_varium 
+scaffold-RDOO-2109404-Racomitrium_varium 
+scaffold-RDOO-2109476-Racomitrium_varium 
+scaffold-RDOO-2109575-Racomitrium_varium 
+scaffold-RDOO-2109646-Racomitrium_varium 
+scaffold-RDOO-2109693-Racomitrium_varium 
+scaffold-RDOO-2109753-Racomitrium_varium 
+scaffold-RDOO-2109789-Racomitrium_varium 
+scaffold-RDOO-2109855-Racomitrium_varium 
+scaffold-RDOO-2109969-Racomitrium_varium 
+scaffold-RDOO-2110098-Racomitrium_varium 
+scaffold-RDOO-2110177-Racomitrium_varium 
+scaffold-RDOO-2110191-Racomitrium_varium 
+scaffold-RDOO-2110397-Racomitrium_varium 
+scaffold-RDOO-2110526-Racomitrium_varium 
+scaffold-RDOO-2110558-Racomitrium_varium 
+scaffold-RDOO-2110626-Racomitrium_varium 
+scaffold-RDOO-2110752-Racomitrium_varium 
+scaffold-RDOO-2110833-Racomitrium_varium 
+scaffold-RDOO-2110953-Racomitrium_varium 
+scaffold-RDOO-2111065-Racomitrium_varium 
+scaffold-RDOO-2111195-Racomitrium_varium 
+scaffold-RDOO-2111314-Racomitrium_varium 
+scaffold-RDOO-2111414-Racomitrium_varium 
+scaffold-RDOO-2111489-Racomitrium_varium 
+scaffold-RDOO-2111577-Racomitrium_varium 
+scaffold-RDOO-2111694-Racomitrium_varium 
+scaffold-RDOO-2111745-Racomitrium_varium 
+scaffold-RDOO-2111964-Racomitrium_varium 
+scaffold-RDOO-2112040-Racomitrium_varium 
+scaffold-RDOO-2112086-Racomitrium_varium 
+scaffold-RDOO-2112164-Racomitrium_varium 
+scaffold-RDOO-2112649-Racomitrium_varium 
+scaffold-RDOO-2112665-Racomitrium_varium 
+scaffold-RDOO-2112749-Racomitrium_varium 
+scaffold-RDOO-2112834-Racomitrium_varium 
+scaffold-RDOO-2112863-Racomitrium_varium 
+scaffold-RDOO-2113011-Racomitrium_varium 
+scaffold-RDOO-2113049-Racomitrium_varium 
+scaffold-RDOO-2113078-Racomitrium_varium 
+scaffold-RDOO-2113284-Racomitrium_varium 
+scaffold-RDOO-2113367-Racomitrium_varium 
+scaffold-RDOO-2113396-Racomitrium_varium 
+scaffold-RDOO-2113476-Racomitrium_varium 
+scaffold-RDOO-2113594-Racomitrium_varium 
+scaffold-RDOO-2113629-Racomitrium_varium 
+scaffold-RDOO-2113635-Racomitrium_varium 
+scaffold-RDOO-2113731-Racomitrium_varium 
+scaffold-RDOO-2113786-Racomitrium_varium 
+scaffold-RDOO-2113830-Racomitrium_varium 
+scaffold-RDOO-2113865-Racomitrium_varium 
+scaffold-RDOO-2113918-Racomitrium_varium 
+scaffold-RDOO-2113970-Racomitrium_varium 
+scaffold-RDOO-2114055-Racomitrium_varium 
+scaffold-RDOO-2114101-Racomitrium_varium 
+scaffold-RDOO-2114166-Racomitrium_varium 
+scaffold-RDOO-2114189-Racomitrium_varium 
+scaffold-RDOO-2114287-Racomitrium_varium 
+scaffold-RDOO-2114302-Racomitrium_varium 
+scaffold-RDOO-2114321-Racomitrium_varium 
+scaffold-RDOO-2114351-Racomitrium_varium 
+scaffold-RDOO-2114359-Racomitrium_varium 
+scaffold-RDOO-2114465-Racomitrium_varium 
+scaffold-RDOO-2114479-Racomitrium_varium 
+scaffold-RDOO-2114506-Racomitrium_varium 
+scaffold-RDOO-2114556-Racomitrium_varium 
+scaffold-RDOO-2114650-Racomitrium_varium 
+scaffold-RDOO-2114726-Racomitrium_varium 
+scaffold-RDOO-2114736-Racomitrium_varium 
+scaffold-RDOO-2114800-Racomitrium_varium 
+scaffold-RDOO-2114902-Racomitrium_varium 
+scaffold-RDOO-2114980-Racomitrium_varium 
+scaffold-RDOO-2115010-Racomitrium_varium 
+scaffold-RDOO-2115067-Racomitrium_varium 
+scaffold-RDOO-2115145-Racomitrium_varium 
+scaffold-RDOO-2115232-Racomitrium_varium 
+scaffold-RDOO-2115394-Racomitrium_varium 
+scaffold-RDOO-2115480-Racomitrium_varium 
+scaffold-RDOO-2115531-Racomitrium_varium 
+scaffold-RDOO-2115547-Racomitrium_varium 
+scaffold-RDOO-2115554-Racomitrium_varium 
+scaffold-RDOO-2115587-Racomitrium_varium 
+scaffold-RDOO-2115655-Racomitrium_varium 
+scaffold-RDOO-2115707-Racomitrium_varium 
+scaffold-RDOO-2115750-Racomitrium_varium 
+scaffold-RDOO-2115785-Racomitrium_varium 
+scaffold-RDOO-2115820-Racomitrium_varium 
+scaffold-RDOO-2115851-Racomitrium_varium 
+scaffold-RDOO-2115924-Racomitrium_varium 
+scaffold-RDOO-2115981-Racomitrium_varium 
+scaffold-RDOO-2116005-Racomitrium_varium 
+scaffold-RDOO-2116051-Racomitrium_varium 
+scaffold-RDOO-2116155-Racomitrium_varium 
+scaffold-RDOO-2116175-Racomitrium_varium 
+scaffold-RDOO-2116191-Racomitrium_varium 
+scaffold-RDOO-2116279-Racomitrium_varium 
+scaffold-RDOO-2116307-Racomitrium_varium 
+scaffold-RDOO-2116341-Racomitrium_varium 
+scaffold-RDOO-2116421-Racomitrium_varium 
+scaffold-RDOO-2116448-Racomitrium_varium 
+scaffold-RDOO-2116473-Racomitrium_varium 
+scaffold-RDOO-2116574-Racomitrium_varium 
+scaffold-RDOO-2116625-Racomitrium_varium 
+scaffold-RDOO-2116643-Racomitrium_varium 
+scaffold-RDOO-2116687-Racomitrium_varium 
+scaffold-RDOO-2116754-Racomitrium_varium 
+scaffold-RDOO-2116792-Racomitrium_varium 
+scaffold-RDOO-2116830-Racomitrium_varium 
+scaffold-RDOO-2116857-Racomitrium_varium 
+scaffold-RDOO-2116874-Racomitrium_varium 
+scaffold-RDOO-2116877-Racomitrium_varium 
+scaffold-RDOO-2116918-Racomitrium_varium 
+scaffold-RDOO-2116979-Racomitrium_varium 
+scaffold-RDOO-2117007-Racomitrium_varium 
+scaffold-RDOO-2117054-Racomitrium_varium 
+scaffold-RDOO-2117117-Racomitrium_varium 
+scaffold-RDOO-2117129-Racomitrium_varium 
+scaffold-RDOO-2117144-Racomitrium_varium 
+scaffold-RDOO-2117175-Racomitrium_varium 
+scaffold-RDOO-2117239-Racomitrium_varium 
+scaffold-RDOO-2117269-Racomitrium_varium 
+scaffold-RDOO-2117299-Racomitrium_varium 
+scaffold-RDOO-2117310-Racomitrium_varium 
+scaffold-RDOO-2117344-Racomitrium_varium 
+scaffold-RDOO-2117361-Racomitrium_varium 
+scaffold-RDOO-2117395-Racomitrium_varium 
+scaffold-RDOO-2117481-Racomitrium_varium 
+scaffold-RDOO-2117547-Racomitrium_varium 
+scaffold-RDOO-2117589-Racomitrium_varium 
+scaffold-RDOO-2117629-Racomitrium_varium 
+scaffold-RDOO-2117635-Racomitrium_varium 
+scaffold-RDOO-2117664-Racomitrium_varium 
+scaffold-RDOO-2117703-Racomitrium_varium 
+scaffold-RDOO-2117706-Racomitrium_varium 
+scaffold-RDOO-2117731-Racomitrium_varium 
+scaffold-RDOO-2117739-Racomitrium_varium 
+scaffold-RDOO-2117759-Racomitrium_varium 
+scaffold-RDOO-2117816-Racomitrium_varium 
+scaffold-RDOO-2117823-Racomitrium_varium 
+scaffold-RDOO-2117861-Racomitrium_varium 
+scaffold-RDOO-2117921-Racomitrium_varium 
+scaffold-RDOO-2117925-Racomitrium_varium 
+scaffold-RDOO-2117970-Racomitrium_varium 
+scaffold-RDOO-2118022-Racomitrium_varium 
+scaffold-RDOO-2118059-Racomitrium_varium 
+scaffold-RDOO-2118071-Racomitrium_varium 
+scaffold-RDOO-2118106-Racomitrium_varium 
+scaffold-RDOO-2118111-Racomitrium_varium 
+scaffold-RDOO-2118137-Racomitrium_varium 
+scaffold-RDOO-2118162-Racomitrium_varium 
+scaffold-RDOO-2118178-Racomitrium_varium 
+scaffold-RDOO-2118199-Racomitrium_varium 
+scaffold-RDOO-2118246-Racomitrium_varium 
+scaffold-RDOO-2118303-Racomitrium_varium 
+scaffold-RDOO-2118314-Racomitrium_varium 
+scaffold-RDOO-2118358-Racomitrium_varium 
+scaffold-RDOO-2118388-Racomitrium_varium 
+scaffold-RDOO-2118408-Racomitrium_varium 
+scaffold-RDOO-2118425-Racomitrium_varium 
+scaffold-RDOO-2118448-Racomitrium_varium 
+scaffold-RDOO-2118499-Racomitrium_varium 
+scaffold-RDOO-2118507-Racomitrium_varium 
+scaffold-RDOO-2118528-Racomitrium_varium 
+scaffold-RDOO-2118597-Racomitrium_varium 
+scaffold-RDOO-2118603-Racomitrium_varium 
+scaffold-RDOO-2118659-Racomitrium_varium 
+scaffold-RDOO-2118673-Racomitrium_varium 
+scaffold-RDOO-2118690-Racomitrium_varium 
+scaffold-RDOO-2118732-Racomitrium_varium 
+scaffold-RDOO-2118792-Racomitrium_varium 
+scaffold-RDOO-2118832-Racomitrium_varium 
+scaffold-RDOO-2118851-Racomitrium_varium 
+scaffold-RDOO-2118862-Racomitrium_varium 
+scaffold-RDOO-2118864-Racomitrium_varium 
+scaffold-RDOO-2118873-Racomitrium_varium 
+scaffold-RDOO-2118890-Racomitrium_varium 
+scaffold-RDOO-2118900-Racomitrium_varium 
+scaffold-RDOO-2118915-Racomitrium_varium 
+scaffold-RDOO-2118930-Racomitrium_varium 
+scaffold-RDOO-2118953-Racomitrium_varium 
+scaffold-RDOO-2118964-Racomitrium_varium 
+scaffold-RDOO-2118990-Racomitrium_varium 
+scaffold-RDOO-2118995-Racomitrium_varium 
+scaffold-RDOO-2118999-Racomitrium_varium 
+scaffold-RDOO-2119004-Racomitrium_varium 
+scaffold-RDOO-2119014-Racomitrium_varium 
+scaffold-RDOO-2119040-Racomitrium_varium 
+scaffold-RDOO-2119054-Racomitrium_varium 
+scaffold-RDOO-2119071-Racomitrium_varium 
+scaffold-RDOO-2119085-Racomitrium_varium 
+scaffold-RDOO-2119102-Racomitrium_varium 
+scaffold-RDOO-2119119-Racomitrium_varium 
+scaffold-RDOO-2119123-Racomitrium_varium 
+scaffold-RDOO-2119143-Racomitrium_varium 
+scaffold-RDOO-2119170-Racomitrium_varium 
+scaffold-RDOO-2119212-Racomitrium_varium 
+scaffold-RDOO-2119255-Racomitrium_varium 
+scaffold-RDOO-2119270-Racomitrium_varium 
+scaffold-RDOO-2119279-Racomitrium_varium 
+scaffold-RDOO-2119296-Racomitrium_varium 
+scaffold-RDOO-2119322-Racomitrium_varium 
+scaffold-RDOO-2119331-Racomitrium_varium 
+scaffold-RDOO-2119352-Racomitrium_varium 
+scaffold-RDOO-2119367-Racomitrium_varium 
+scaffold-RDOO-2119386-Racomitrium_varium 
+scaffold-RDOO-2119424-Racomitrium_varium 
+scaffold-RDOO-2119437-Racomitrium_varium 
+scaffold-RDOO-2119438-Racomitrium_varium 
+scaffold-RDOO-2119450-Racomitrium_varium 
+scaffold-RDOO-2119453-Racomitrium_varium 
+scaffold-RDOO-2119466-Racomitrium_varium 
+scaffold-RDOO-2119474-Racomitrium_varium 
+scaffold-RDOO-2119487-Racomitrium_varium 
+scaffold-RDOO-2119492-Racomitrium_varium 
+scaffold-RDOO-2119498-Racomitrium_varium 
+scaffold-RDOO-2119517-Racomitrium_varium 
+scaffold-RDOO-2119525-Racomitrium_varium 
+scaffold-RDOO-2119529-Racomitrium_varium 
+scaffold-RDOO-2119538-Racomitrium_varium 
+scaffold-RDOO-2119541-Racomitrium_varium 
+scaffold-RDOO-2119558-Racomitrium_varium 
+scaffold-RDOO-2119567-Racomitrium_varium 
+scaffold-RDOO-2119573-Racomitrium_varium 
+scaffold-RDOO-2119580-Racomitrium_varium 
+scaffold-RDOO-2119590-Racomitrium_varium 
+scaffold-RDOO-2119619-Racomitrium_varium 
+scaffold-RDOO-2119630-Racomitrium_varium 
+scaffold-RDOO-2119646-Racomitrium_varium 
+scaffold-RDOO-2119648-Racomitrium_varium 
+scaffold-RDOO-2119656-Racomitrium_varium 
+scaffold-RDOO-2119667-Racomitrium_varium 
+scaffold-RDOO-2119679-Racomitrium_varium 
+scaffold-RDOO-2119687-Racomitrium_varium 
+scaffold-RDOO-2119689-Racomitrium_varium 
+scaffold-RDOO-2119692-Racomitrium_varium 
+scaffold-RDOO-2119711-Racomitrium_varium 
+scaffold-RDOO-2119721-Racomitrium_varium 
+scaffold-RDOO-2119729-Racomitrium_varium 
+scaffold-RDOO-2119739-Racomitrium_varium 
+scaffold-RDOO-2119742-Racomitrium_varium 
+scaffold-RDOO-2119747-Racomitrium_varium 
+scaffold-RDOO-2119754-Racomitrium_varium 
+scaffold-RDOO-2119759-Racomitrium_varium 
+scaffold-RDOO-2119761-Racomitrium_varium 
+scaffold-RDOO-2119763-Racomitrium_varium 
+scaffold-RDOO-2119767-Racomitrium_varium 
+scaffold-RDOO-2119772-Racomitrium_varium 
+scaffold-RDOO-2119776-Racomitrium_varium 
+scaffold-RDOO-2119777-Racomitrium_varium 
+scaffold-RDOO-2119783-Racomitrium_varium 
+scaffold-RDOO-2119790-Racomitrium_varium 
+scaffold-RDOO-2119798-Racomitrium_varium 
+scaffold-RDOO-2119808-Racomitrium_varium 
+scaffold-RDOO-2119817-Racomitrium_varium 
+scaffold-RDOO-2119820-Racomitrium_varium 
+scaffold-RDOO-2119822-Racomitrium_varium 
+scaffold-RDOO-2119832-Racomitrium_varium 
+scaffold-RDOO-2119837-Racomitrium_varium 
+scaffold-RDOO-2119840-Racomitrium_varium 
+scaffold-RDOO-2119844-Racomitrium_varium 
+scaffold-RDOO-2119845-Racomitrium_varium 
+scaffold-RDOO-2119850-Racomitrium_varium 
+scaffold-RDOO-2119851-Racomitrium_varium 
+scaffold-RDOO-2119875-Racomitrium_varium 
+scaffold-RDOO-2119878-Racomitrium_varium 
+scaffold-RDOO-2119885-Racomitrium_varium 
+scaffold-RDOO-2119896-Racomitrium_varium 
+scaffold-RDOO-2119902-Racomitrium_varium 
+scaffold-RDOO-2119909-Racomitrium_varium 
+scaffold-RDOO-2119911-Racomitrium_varium 
+scaffold-RDOO-2119913-Racomitrium_varium 
+scaffold-RDOO-2119920-Racomitrium_varium 
+scaffold-RDOO-2119930-Racomitrium_varium 
+scaffold-RDOO-2119932-Racomitrium_varium 
+scaffold-RDOO-2119945-Racomitrium_varium 
+scaffold-RDOO-2119949-Racomitrium_varium 
+scaffold-RDOO-2119951-Racomitrium_varium 
+scaffold-RDOO-2119956-Racomitrium_varium 
+scaffold-RDOO-2119959-Racomitrium_varium 
+scaffold-RDOO-2119961-Racomitrium_varium 
+ 
+
+Removed 9886 loci that did not pass sample/population constraints from 12604 loci.
+Kept 2718 loci, composed of 341293 sites; 7915 of those sites were filtered, 638 variant sites remained.
+    312726 genomic sites, of which 28290 were covered by multiple loci (9.0%).
+Mean genotyped sites per locus: 125.52bp (stderr 0.15).
+
+Population summary statistics (more detail in populations.sumstats_summary.tsv):
+  D1203_SWEDEN_Angermanland: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 276637/422/0; private alleles: 0
+  D1204_SWEDEN_Lycksele-Lappmark: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 269133/424/0; private alleles: 0
+  D1206_SWEDEN_Pite-Lappmark: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 252654/371/0; private alleles: 0
+  D1207_SWEDEN_Pite-Lappmark: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 255554/359/0; private alleles: 0
+  D1289_SWEDEN_Smaland: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 287877/455/0; private alleles: 0
+  D1291_SWEDEN_Sodermanland: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 270552/394/0; private alleles: 0
+  D1292_SWEDEN_Uppland: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 282071/432/0; private alleles: 0
+  D1293_SWEDEN_Uppland: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 237791/299/0; private alleles: 0
+  D1295_SWEDEN_Vastmanland: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 259385/366/0; private alleles: 0
+  D1297_SWEDEN_Dalarna: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 278830/418/0; private alleles: 0
+  D1298_SWEDEN_Halsingland: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 271441/396/0; private alleles: 0
+  D1301_SWEDEN_Harjedalen: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 275672/408/0; private alleles: 0
+  D1302_SWEDEN_Jamtland: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 211798/274/0; private alleles: 0
+  D1306_SWEDEN_Jamtland: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 244585/323/0; private alleles: 0
+  D1312_SWEDEN_Lycksele-lappmark: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 278901/398/0; private alleles: 0
+  D1318_SWEDEN_Pite-Lappmark: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 265504/375/0; private alleles: 0
+  D1319_SWEDEN_Pite-Lappmark: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 257067/353/0; private alleles: 0
+  JC1464_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 261534/378/0; private alleles: 0
+  JC1465_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 292450/466/0; private alleles: 0
+  JC1466_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 280897/418/0; private alleles: 0
+  JC1467_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 258570/351/0; private alleles: 0
+  JC1468_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 263409/371/0; private alleles: 0
+  JC1469_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 294041/442/0; private alleles: 0
+  JC1470_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 272454/402/0; private alleles: 0
+  JC1471_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 264677/377/0; private alleles: 0
+  JC1472_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 271798/401/0; private alleles: 0
+  JC1473_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 318886/509/0; private alleles: 0
+  JC1474_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 278591/434/0; private alleles: 0
+  JC1475_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 271506/390/0; private alleles: 0
+  JC1477_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 249046/330/0; private alleles: 0
+  JC1479_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 276639/424/0; private alleles: 0
+  JC1480_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 283463/439/0; private alleles: 0
+  JC1482_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 207297/257/0; private alleles: 0
+  JC1485_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 254298/383/0; private alleles: 0
+  JC1486_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 197982/271/0; private alleles: 0
+  JC1487_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 231178/320/0; private alleles: 0
+  JC1490_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 236555/322/0; private alleles: 0
+  JC1493_Alaska_Attu: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 193643/271/0; private alleles: 0
+  JC1494_Alaska_MudCreek: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 273252/414/0; private alleles: 0
+  JC1495_Alaska_Kodiak: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 247935/346/0; private alleles: 0
+  JC1496_Alaska_Sandy: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 252310/335/0; private alleles: 0
+  JC1498_Alaska_Tyonek: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 221271/306/0; private alleles: 0
+  JC1499_Alaska_Selawik: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 222353/294/0; private alleles: 0
+  JC1500_Alaska_Afognak: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 233732/286/0; private alleles: 0
+  JC1501_Alaska_Kodiak: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 262441/366/0; private alleles: 0
+  JC1502_Alaska_Anchorage: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 215082/293/0; private alleles: 0
+  JC1503_Alaska_Auletian: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 176274/209/0; private alleles: 0
+  JC1505_Alaska_PassCreek: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 199305/288/0; private alleles: 0
+  JC1506_Alaska_Auletian: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 244109/331/0; private alleles: 0
+  JC1508_Alaska_BigCreek: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 180863/215/0; private alleles: 0
+  JC1509_Alaska_BigCreek: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 251893/346/0; private alleles: 0
+  JC1511_Alaska_Auletian: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 233793/313/0; private alleles: 0
+  JC1513_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 275061/397/0; private alleles: 0
+  JC1514_Alaska_MudCreek: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 254813/356/0; private alleles: 0
+  JC1517_CANADA_NewFoundland: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 219635/296/0; private alleles: 0
+  JC1518_Alaska_FarNorth: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 244124/346/0; private alleles: 0
+  JC1519_Alaska_FarNorth: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 254881/360/0; private alleles: 0
+  JC1520_Alaska_FarNorth: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 241384/320/0; private alleles: 0
+  JC1521_Alaska_FarNorth: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 187576/256/0; private alleles: 0
+  JC1522_Alaska_FarNorth: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 247786/340/0; private alleles: 0
+  JC1524_GREENLAND_Wollaston: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 243926/340/0; private alleles: 0
+  JC1526_GREENLAND_Wollaston: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 196047/227/0; private alleles: 0
+  JC1528_GREENLAND_Kobbefjord: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 241842/329/0; private alleles: 0
+  JC1529_GREENLAND_Kobbefjord: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 222243/290/0; private alleles: 0
+  JC1530_GREENLAND_Nuuk: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 232484/300/0; private alleles: 0
+  JC1533_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 249940/349/0; private alleles: 0
+  JC1535_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 195569/277/0; private alleles: 0
+  JC1537_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 219746/285/0; private alleles: 0
+  JC1538_Alaska_: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 213263/273/0; private alleles: 0
+  JC1539_Alaska_Kodiak: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 168709/199/0; private alleles: 0
+  JC2165_CANADA_Labrador: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 194349/236/0; private alleles: 0
+  JC2779_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 199204/235/0; private alleles: 0
+  JC2782_PORTUGAL_Braga: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 259943/376/0; private alleles: 0
+  JC2788_369-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 291917/489/0; private alleles: 0
+  JC2789_370-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 282410/430/0; private alleles: 0
+  JC2790_371-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 290597/451/0; private alleles: 0
+  JC2791_375-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 166905/249/0; private alleles: 0
+  JC2792_378-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 304333/521/0; private alleles: 0
+  JC2793_379-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 290709/454/0; private alleles: 0
+  JC2794_380-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 268262/385/0; private alleles: 0
+  JC2795_382-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 268300/409/0; private alleles: 0
+  JC2796_383-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 283376/443/0; private alleles: 0
+  JC2797_385-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 287294/475/0; private alleles: 0
+  JC2798_386-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 176479/251/0; private alleles: 0
+  JC2799_387-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 172526/271/0; private alleles: 0
+  JC2800_388-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 274315/422/0; private alleles: 0
+  JC2801_389-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 288051/450/0; private alleles: 0
+  JC2802_398-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 275782/428/0; private alleles: 0
+  JC2803_399-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 287546/486/0; private alleles: 0
+  JC2804_401-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 275533/405/0; private alleles: 0
+  JC2805_402-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 296768/502/0; private alleles: 0
+  JC2806_407-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 268776/417/0; private alleles: 0
+  JC2807_408-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 284130/448/0; private alleles: 0
+  JC2809_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 232598/296/0; private alleles: 0
+  JC2810_GREENLAND_Kobbefjord: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 240138/323/0; private alleles: 0
+  JC2811_GREENLAND_Wollaston: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 241630/327/0; private alleles: 0
+  JC2813_Alaska_FarNorth: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 253419/347/0; private alleles: 0
+  JC2814_Alaska_BigCreek: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 206581/256/0; private alleles: 0
+  JC2815_Alaska_BigCreek: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 216252/278/0; private alleles: 0
+  JC2816_Alaska_BigCreek: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 233234/294/0; private alleles: 0
+  JC2818_Alaska_Bering: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 223636/272/0; private alleles: 0
+  JC2820_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 253665/354/0; private alleles: 0
+  JC2821_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 255789/342/0; private alleles: 0
+  JC2823_CANADA_Nunavut: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 265095/381/0; private alleles: 0
+  JC2824_CANADA_Nunavut: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 301269/469/0; private alleles: 0
+  JC2825_CANADA_Nunavut: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 279011/448/0; private alleles: 0
+  JC2826_CANADA_Nunavut: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 278610/436/0; private alleles: 0
+  JC2827_CANADA_Nunavut: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 281649/423/0; private alleles: 0
+  JC2828_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 233657/317/0; private alleles: 0
+  JC2829_CANADA_Ontario: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 258042/372/0; private alleles: 0
+  JC2830_Alaska_Auletian: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 246220/367/0; private alleles: 0
+  JC2831_Alaska_Auletian: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 221745/280/0; private alleles: 0
+  JC2832_CANADA_Ontario: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 271115/403/0; private alleles: 0
+  JC2833_CANADA_Ontario: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 210472/279/0; private alleles: 0
+  JC2834_CANADA_Ontario: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 241227/318/0; private alleles: 0
+  JC2835_CANADA_Ontario: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 291182/478/0; private alleles: 0
+  JC2836_CANADA_Ontario: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 258551/381/0; private alleles: 0
+  JC2837_CANADA_Ontario: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 255887/344/0; private alleles: 0
+  JC2839_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 223059/284/0; private alleles: 0
+  JC2840_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 226445/307/0; private alleles: 0
+  JC2841_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 246081/343/0; private alleles: 0
+  JC2842_CANADA_Labrador: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 237718/329/0; private alleles: 0
+  JC2843_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 222943/284/0; private alleles: 0
+  JC2844_CANADA_Quebec: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 273288/419/0; private alleles: 0
+  JC2853_370_A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 115208/165/0; private alleles: 0
+  JC2859_375_A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 173277/265/0; private alleles: 0
+  JC2861_378_E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 169004/263/0; private alleles: 0
+  JC2875_385_E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 164778/222/0; private alleles: 0
+  JC2878_386_E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 174410/249/0; private alleles: 0
+  JC2906_402-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 2887/8/0; private alleles: 0
+  JC2911_408-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 162810/240/0; private alleles: 0
+  JC2917_412-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 177071/284/0; private alleles: 0
+  JC2926_411-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 167512/244/0; private alleles: 0
+  JC2927_412-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 193042/333/0; private alleles: 0
+  JC2928_415-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 175009/282/0; private alleles: 0
+  JC2929_415-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 173588/255/0; private alleles: 0
+  JC2930_416-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 169813/240/0; private alleles: 0
+  JC2931_417-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 123300/161/0; private alleles: 0
+  JC2932_369-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 149047/196/0; private alleles: 0
+  JC2933_370-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 176442/281/0; private alleles: 0
+  JC2934_371-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 162681/227/0; private alleles: 0
+  JC2935_375-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 174983/270/0; private alleles: 0
+  JC2937_379-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 176392/279/0; private alleles: 0
+  JC2938_380-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 182713/314/0; private alleles: 0
+  JC2939_382-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 156993/191/0; private alleles: 0
+  JC2940_383-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 180045/278/0; private alleles: 0
+  JC2943_387-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 173978/263/0; private alleles: 0
+  JC2944_388-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 167864/238/0; private alleles: 0
+  JC2945_389-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 170729/263/0; private alleles: 0
+  JC2947_399-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 159177/226/0; private alleles: 0
+  JC2948_401-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 173419/274/0; private alleles: 0
+  JC2949_402-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 180695/264/0; private alleles: 0
+  JC2950_407-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 191728/308/0; private alleles: 0
+  JC2951_411-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 156114/225/0; private alleles: 0
+  JC2952_412-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 164852/245/0; private alleles: 0
+  JC2953_416-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 58710/75/0; private alleles: 0
+  JC2954_417-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 162382/256/0; private alleles: 0
+  JC2955_369-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 152833/206/0; private alleles: 0
+  JC2956_371-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 171488/234/0; private alleles: 0
+  JC2958_378-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 166962/243/0; private alleles: 0
+  JC2959_379-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 172072/262/0; private alleles: 0
+  JC2960_380-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 172556/263/0; private alleles: 0
+  JC2961_382-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 187994/309/0; private alleles: 0
+  JC2962_383-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 151294/215/0; private alleles: 0
+  JC2963_385-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 158201/220/0; private alleles: 0
+  JC3085_408-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 148290/199/0; private alleles: 0
+  JC3086_386-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 186292/304/0; private alleles: 0
+  JC3087_387-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 175823/260/0; private alleles: 0
+  JC3088_388-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 169368/233/0; private alleles: 0
+  JC3089_389-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 194686/338/0; private alleles: 0
+  JC3090_398-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 176540/293/0; private alleles: 0
+  JC3091_399-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 153137/233/0; private alleles: 0
+  JC3210_401-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 157091/213/0; private alleles: 0
+  JC3212_407-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 135115/169/0; private alleles: 0
+  JC3214_411-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 150460/208/0; private alleles: 0
+  JC3216_415-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 62062/82/0; private alleles: 0
+  JC3218_417-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 107644/140/0; private alleles: 0
+  JC3234_393-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 154934/216/0; private alleles: 0
+  JC3235_393-A2: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 145173/210/0; private alleles: 0
+  JC3236_393-A3: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 154280/229/0; private alleles: 0
+  JC3237_393-A4: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 160332/256/0; private alleles: 0
+  JC3238_393-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 159620/227/0; private alleles: 0
+  JC3239_393-B1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 149691/212/0; private alleles: 0
+  JC3240_393-B2: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 150106/201/0; private alleles: 0
+  JC3241_393-B3: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 155722/237/0; private alleles: 0
+  JC3243_393-B5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 158557/211/0; private alleles: 0
+  JC3244_393-C1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 152256/220/0; private alleles: 0
+  JC3245_393-C2: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 169716/259/0; private alleles: 0
+  JC3246_393-C3: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 125714/175/0; private alleles: 0
+  JC3247_393-C4: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 139922/192/0; private alleles: 0
+  JC3248_393-C5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 156164/237/0; private alleles: 0
+  JC3249_393-D1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 149148/198/0; private alleles: 0
+  JC3250_393-D2: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 145239/201/0; private alleles: 0
+  JC3251_393-D3: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 156478/213/0; private alleles: 0
+  JC3252_393-D4: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 161670/218/0; private alleles: 0
+  JC3254_393-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 150192/227/0; private alleles: 0
+  JC3256_393-E3: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 154068/231/0; private alleles: 0
+  JC3257_393-E4: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 167344/259/0; private alleles: 0
+  JC3258_393-E5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 166675/250/0; private alleles: 0
+  JC3259_414-A1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 176118/294/0; private alleles: 0
+  JC3260_414-A2: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 156891/248/0; private alleles: 0
+  JC3261_414-A3: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 158760/255/0; private alleles: 0
+  JC3265_414-B4: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 161911/270/0; private alleles: 0
+  JC3268_414-C2: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 171210/273/0; private alleles: 0
+  JC3269_414-C3: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 174053/257/0; private alleles: 0
+  JC3270_414-C4: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 178572/286/0; private alleles: 0
+  JC3273_414-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 157874/254/0; private alleles: 0
+  JC3274_414-E2: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 153287/239/0; private alleles: 0
+  JC3280_393-B4: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 158225/222/0; private alleles: 0
+  JC3281_393-E2: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 157626/215/0; private alleles: 0
+  JC3282_414-B2: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 148662/230/0; private alleles: 0
+  JC3283_414-B3: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 150338/222/0; private alleles: 0
+  JC3284_414-D1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 168423/254/0; private alleles: 0
+  JC3285_414-D2: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 164166/262/0; private alleles: 0
+  JC3286_414-D3: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 163590/270/0; private alleles: 0
+  JC3287_414-D4: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 170525/269/0; private alleles: 0
+  JC3288_414-D5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 148619/198/0; private alleles: 0
+  JC3289_414-E3: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 161142/230/0; private alleles: 0
+  JC3290_414-E4: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 160926/227/0; private alleles: 0
+  JC3291_414-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 159678/258/0; private alleles: 0
+  JC3292_414-B1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 164850/259/0; private alleles: 0
+  JC3293_414-C1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 158008/241/0; private alleles: 0
+  JC3294_414-E5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 153415/225/0; private alleles: 0
+  JC3295_414-C5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 164884/247/0; private alleles: 0
+  JC3299_414-A4: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 162795/256/0; private alleles: 0
+  JC3300_414-B5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 151197/233/0; private alleles: 0
+  JC3301_398-E1: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 173439/253/0; private alleles: 0
+  JC3302_393-D5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 155757/224/0; private alleles: 0
+  JC3303_416-A5: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 164686/216/0; private alleles: 0
+  R_pruinosum_D1504_AUSTRALIA_New-South-Wales: 1 samples per locus; pi: 0; all/variant/polymorphic sites: 248765/370/0; private alleles: 0
+Populations is done.

@@ -1,0 +1,1285 @@
+# Note: Individual distributions can be extracted using the `stacks-dist-extract` utility.
+#       e.g. `stacks-dist-extract populations.log.distribs dist_name`
+
+BEGIN batch_progress
+scaffold-ABCD-2000494-Niphotrichum_elongatum: analyzed 2 loci; filtered 51 loci; 53 loci seen.
+    253 genomic sites, of which 4 were covered by multiple loci (1.6%).
+scaffold-ABCD-2001220-Niphotrichum_elongatum: analyzed 2 loci; filtered 44 loci; 46 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2002298-Niphotrichum_elongatum: analyzed 2 loci; filtered 49 loci; 51 loci seen.
+    247 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2002556-Niphotrichum_elongatum: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    253 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2002814-Niphotrichum_elongatum: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2003136-Niphotrichum_elongatum: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    172 genomic sites, of which 94 were covered by multiple loci (54.7%).
+scaffold-ABCD-2003312-Niphotrichum_elongatum: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2003458-Niphotrichum_elongatum: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    273 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2003780-Niphotrichum_elongatum: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    232 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2004081-Niphotrichum_elongatum: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2004490-Niphotrichum_elongatum: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2004606-Niphotrichum_elongatum: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2004794-Niphotrichum_elongatum: analyzed 2 loci; filtered 28 loci; 30 loci seen.
+    153 genomic sites, of which 95 were covered by multiple loci (62.1%).
+scaffold-ABCD-2005227-Niphotrichum_elongatum: analyzed 2 loci; filtered 25 loci; 27 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2005368-Niphotrichum_elongatum: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    251 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2005942-Niphotrichum_elongatum: analyzed 2 loci; filtered 28 loci; 30 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2006133-Niphotrichum_elongatum: analyzed 2 loci; filtered 42 loci; 44 loci seen.
+    247 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2006868-Niphotrichum_elongatum: analyzed 2 loci; filtered 40 loci; 42 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2006940-Niphotrichum_elongatum: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    265 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2007386-Niphotrichum_elongatum: analyzed 2 loci; filtered 104 loci; 106 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2008367-Niphotrichum_elongatum: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    250 genomic sites, of which 8 were covered by multiple loci (3.2%).
+scaffold-ABCD-2008439-Niphotrichum_elongatum: analyzed 2 loci; filtered 40 loci; 42 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2008908-Niphotrichum_elongatum: analyzed 2 loci; filtered 30 loci; 32 loci seen.
+    245 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2009087-Niphotrichum_elongatum: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    242 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2009230-Niphotrichum_elongatum: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    264 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2009342-Niphotrichum_elongatum: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2009475-Niphotrichum_elongatum: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    236 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2009476-Niphotrichum_elongatum: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    253 genomic sites, of which 4 were covered by multiple loci (1.6%).
+scaffold-ABCD-2009947-Niphotrichum_elongatum: analyzed 2 loci; filtered 63 loci; 65 loci seen.
+    229 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2010354-Niphotrichum_elongatum: analyzed 2 loci; filtered 39 loci; 41 loci seen.
+    250 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2010501-Niphotrichum_elongatum: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    237 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2010564-Niphotrichum_elongatum: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    246 genomic sites, of which 14 were covered by multiple loci (5.7%).
+scaffold-ABCD-2010730-Niphotrichum_elongatum: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2010769-Niphotrichum_elongatum: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    241 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2010949-Niphotrichum_elongatum: analyzed 2 loci; filtered 69 loci; 71 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2011243-Niphotrichum_elongatum: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2011338-Niphotrichum_elongatum: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2011611-Niphotrichum_elongatum: analyzed 2 loci; filtered 28 loci; 30 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2011672-Niphotrichum_elongatum: analyzed 2 loci; filtered 29 loci; 31 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2011789-Niphotrichum_elongatum: analyzed 2 loci; filtered 26 loci; 28 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2011995-Niphotrichum_elongatum: analyzed 2 loci; filtered 35 loci; 37 loci seen.
+    247 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2027343-Niphotrichum_elongatum: analyzed 2 loci; filtered 32 loci; 34 loci seen.
+    109 genomic sites, of which 100 were covered by multiple loci (91.7%).
+scaffold-ABCD-2030389-Niphotrichum_elongatum: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    145 genomic sites, of which 102 were covered by multiple loci (70.3%).
+scaffold-ABCD-2034755-Niphotrichum_elongatum: analyzed 2 loci; filtered 48 loci; 50 loci seen.
+    146 genomic sites, of which 108 were covered by multiple loci (74.0%).
+scaffold-ABCD-2036068-Niphotrichum_elongatum: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    137 genomic sites, of which 106 were covered by multiple loci (77.4%).
+scaffold-ABCD-2039030-Niphotrichum_elongatum: analyzed 2 loci; filtered 36 loci; 38 loci seen.
+    176 genomic sites, of which 73 were covered by multiple loci (41.5%).
+scaffold-ABCD-2043282-Niphotrichum_elongatum: analyzed 2 loci; filtered 49 loci; 51 loci seen.
+    154 genomic sites, of which 104 were covered by multiple loci (67.5%).
+scaffold-ABCD-2046646-Niphotrichum_elongatum: analyzed 2 loci; filtered 33 loci; 35 loci seen.
+    205 genomic sites, of which 14 were covered by multiple loci (6.8%).
+scaffold-ABCD-2047659-Niphotrichum_elongatum: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    173 genomic sites, of which 60 were covered by multiple loci (34.7%).
+scaffold-ABCD-2052855-Niphotrichum_elongatum: analyzed 2 loci; filtered 90 loci; 92 loci seen.
+    162 genomic sites, of which 85 were covered by multiple loci (52.5%).
+scaffold-ABCD-2054682-Niphotrichum_elongatum: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    193 genomic sites, of which 68 were covered by multiple loci (35.2%).
+scaffold-ABCD-2057601-Niphotrichum_elongatum: analyzed 2 loci; filtered 65 loci; 67 loci seen.
+    131 genomic sites, of which 112 were covered by multiple loci (85.5%).
+scaffold-ABCD-2059137-Niphotrichum_elongatum: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    174 genomic sites, of which 84 were covered by multiple loci (48.3%).
+scaffold-ABCD-2059828-Niphotrichum_elongatum: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    197 genomic sites, of which 61 were covered by multiple loci (31.0%).
+scaffold-ABCD-2062139-Niphotrichum_elongatum: analyzed 2 loci; filtered 72 loci; 74 loci seen.
+    211 genomic sites, of which 44 were covered by multiple loci (20.9%).
+scaffold-ABCD-2065289-Niphotrichum_elongatum: analyzed 2 loci; filtered 91 loci; 93 loci seen.
+    232 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2065693-Niphotrichum_elongatum: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    251 genomic sites, of which 4 were covered by multiple loci (1.6%).
+scaffold-ABCD-2066521-Niphotrichum_elongatum: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    148 genomic sites, of which 108 were covered by multiple loci (73.0%).
+scaffold-ABCD-2067141-Niphotrichum_elongatum: analyzed 2 loci; filtered 36 loci; 38 loci seen.
+    251 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2067696-Niphotrichum_elongatum: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    243 genomic sites, of which 10 were covered by multiple loci (4.1%).
+scaffold-ABCD-2067743-Niphotrichum_elongatum: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2067767-Niphotrichum_elongatum: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2068154-Niphotrichum_elongatum: analyzed 2 loci; filtered 25 loci; 27 loci seen.
+    199 genomic sites, of which 49 were covered by multiple loci (24.6%).
+scaffold-ABCD-2069357-Niphotrichum_elongatum: analyzed 2 loci; filtered 63 loci; 65 loci seen.
+    219 genomic sites, of which 42 were covered by multiple loci (19.2%).
+scaffold-ABCD-2069532-Niphotrichum_elongatum: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2070818-Niphotrichum_elongatum: analyzed 2 loci; filtered 66 loci; 68 loci seen.
+    169 genomic sites, of which 73 were covered by multiple loci (43.2%).
+scaffold-ABCD-2071256-Niphotrichum_elongatum: analyzed 2 loci; filtered 39 loci; 41 loci seen.
+    172 genomic sites, of which 84 were covered by multiple loci (48.8%).
+scaffold-ABCD-2071420-Niphotrichum_elongatum: analyzed 2 loci; filtered 33 loci; 35 loci seen.
+    154 genomic sites, of which 103 were covered by multiple loci (66.9%).
+scaffold-ABCD-2071873-Niphotrichum_elongatum: analyzed 2 loci; filtered 72 loci; 74 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2072588-Niphotrichum_elongatum: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    234 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2072817-Niphotrichum_elongatum: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    232 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2073094-Niphotrichum_elongatum: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2073225-Niphotrichum_elongatum: analyzed 2 loci; filtered 26 loci; 28 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2073390-Niphotrichum_elongatum: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2073434-Niphotrichum_elongatum: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2073540-Niphotrichum_elongatum: analyzed 2 loci; filtered 36 loci; 38 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2073934-Niphotrichum_elongatum: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    207 genomic sites, of which 49 were covered by multiple loci (23.7%).
+scaffold-ABCD-2074025-Niphotrichum_elongatum: analyzed 3 loci; filtered 7 loci; 10 loci seen.
+    266 genomic sites, of which 124 were covered by multiple loci (46.6%).
+scaffold-ABCD-2074164-Niphotrichum_elongatum: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    228 genomic sites, of which 23 were covered by multiple loci (10.1%).
+scaffold-ABCD-2074392-Niphotrichum_elongatum: analyzed 3 loci; filtered 38 loci; 41 loci seen.
+    379 genomic sites, of which 4 were covered by multiple loci (1.1%).
+scaffold-ABCD-2074475-Niphotrichum_elongatum: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    248 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2074633-Niphotrichum_elongatum: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    251 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2075058-Niphotrichum_elongatum: analyzed 2 loci; filtered 44 loci; 46 loci seen.
+    243 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2075123-Niphotrichum_elongatum: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    228 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2075623-Niphotrichum_elongatum: analyzed 2 loci; filtered 54 loci; 56 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2075674-Niphotrichum_elongatum: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2075767-Niphotrichum_elongatum: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2076005-Niphotrichum_elongatum: analyzed 2 loci; filtered 44 loci; 46 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2076222-Niphotrichum_elongatum: analyzed 2 loci; filtered 41 loci; 43 loci seen.
+    247 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2076352-Niphotrichum_elongatum: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    212 genomic sites, of which 43 were covered by multiple loci (20.3%).
+scaffold-ABCD-2076595-Niphotrichum_elongatum: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2076715-Niphotrichum_elongatum: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    212 genomic sites, of which 28 were covered by multiple loci (13.2%).
+scaffold-ABCD-2077046-Niphotrichum_elongatum: analyzed 2 loci; filtered 51 loci; 53 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2077202-Niphotrichum_elongatum: analyzed 2 loci; filtered 25 loci; 27 loci seen.
+    246 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2077212-Niphotrichum_elongatum: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2077378-Niphotrichum_elongatum: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    251 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2077639-Niphotrichum_elongatum: analyzed 2 loci; filtered 92 loci; 94 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2077935-Niphotrichum_elongatum: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2078043-Niphotrichum_elongatum: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2078192-Niphotrichum_elongatum: analyzed 2 loci; filtered 23 loci; 25 loci seen.
+    251 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2078239-Niphotrichum_elongatum: analyzed 4 loci; filtered 16 loci; 20 loci seen.
+    402 genomic sites, of which 117 were covered by multiple loci (29.1%).
+scaffold-ABCD-2078280-Niphotrichum_elongatum: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2078461-Niphotrichum_elongatum: analyzed 2 loci; filtered 36 loci; 38 loci seen.
+    248 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-ABCD-2078533-Niphotrichum_elongatum: analyzed 2 loci; filtered 31 loci; 33 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2000073-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2000256-Racomitrium_varium: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2000450-Racomitrium_varium: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2000762-Racomitrium_varium: analyzed 2 loci; filtered 41 loci; 43 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2000795-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2001051-Racomitrium_varium: analyzed 2 loci; filtered 30 loci; 32 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2001159-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    240 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2001296-Racomitrium_varium: analyzed 2 loci; filtered 26 loci; 28 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2001418-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    235 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2001479-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    253 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2001774-Racomitrium_varium: analyzed 2 loci; filtered 33 loci; 35 loci seen.
+    265 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2001830-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    234 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2001900-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    223 genomic sites, of which 41 were covered by multiple loci (18.4%).
+scaffold-RDOO-2001978-Racomitrium_varium: analyzed 4 loci; filtered 8 loci; 12 loci seen.
+    483 genomic sites, of which 4 were covered by multiple loci (0.8%).
+scaffold-RDOO-2002059-Racomitrium_varium: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2002144-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    145 genomic sites, of which 116 were covered by multiple loci (80.0%).
+scaffold-RDOO-2002157-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    132 genomic sites, of which 116 were covered by multiple loci (87.9%).
+scaffold-RDOO-2002339-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    249 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2002428-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2002479-Racomitrium_varium: analyzed 4 loci; filtered 11 loci; 15 loci seen.
+    493 genomic sites, of which 4 were covered by multiple loci (0.8%).
+scaffold-RDOO-2002598-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2002730-Racomitrium_varium: analyzed 3 loci; filtered 14 loci; 17 loci seen.
+    385 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2002842-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    243 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2003073-Racomitrium_varium: analyzed 2 loci; filtered 30 loci; 32 loci seen.
+    239 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2003096-Racomitrium_varium: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    381 genomic sites, of which 4 were covered by multiple loci (1.0%).
+scaffold-RDOO-2003107-Racomitrium_varium: analyzed 3 loci; filtered 4 loci; 7 loci seen.
+    385 genomic sites, of which 4 were covered by multiple loci (1.0%).
+scaffold-RDOO-2003208-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2003320-Racomitrium_varium: analyzed 3 loci; filtered 14 loci; 17 loci seen.
+    383 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2003427-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    136 genomic sites, of which 124 were covered by multiple loci (91.2%).
+scaffold-RDOO-2003637-Racomitrium_varium: analyzed 2 loci; filtered 33 loci; 35 loci seen.
+    250 genomic sites, of which 13 were covered by multiple loci (5.2%).
+scaffold-RDOO-2003820-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2003898-Racomitrium_varium: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    245 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2004048-Racomitrium_varium: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    238 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2004116-Racomitrium_varium: analyzed 3 loci; filtered 19 loci; 22 loci seen.
+    400 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2004337-Racomitrium_varium: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2004477-Racomitrium_varium: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2004575-Racomitrium_varium: analyzed 2 loci; filtered 25 loci; 27 loci seen.
+    224 genomic sites, of which 32 were covered by multiple loci (14.3%).
+scaffold-RDOO-2004730-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2004741-Racomitrium_varium: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2004840-Racomitrium_varium: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    265 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2005069-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    234 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2005079-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2005153-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    270 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2005229-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2005342-Racomitrium_varium: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2005398-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    241 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2005492-Racomitrium_varium: analyzed 2 loci; filtered 29 loci; 31 loci seen.
+    253 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2005583-Racomitrium_varium: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2005703-Racomitrium_varium: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2005760-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2005916-Racomitrium_varium: analyzed 3 loci; filtered 26 loci; 29 loci seen.
+    386 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2006062-Racomitrium_varium: analyzed 3 loci; filtered 23 loci; 26 loci seen.
+    391 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2006131-Racomitrium_varium: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    241 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2006270-Racomitrium_varium: analyzed 2 loci; filtered 28 loci; 30 loci seen.
+    243 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2006356-Racomitrium_varium: analyzed 2 loci; filtered 26 loci; 28 loci seen.
+    246 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2006513-Racomitrium_varium: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2006632-Racomitrium_varium: analyzed 2 loci; filtered 26 loci; 28 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2006663-Racomitrium_varium: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    271 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2006886-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2006935-Racomitrium_varium: analyzed 4 loci; filtered 21 loci; 25 loci seen.
+    515 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2007009-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2007067-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2007189-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2007299-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2007344-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    151 genomic sites, of which 103 were covered by multiple loci (68.2%).
+scaffold-RDOO-2007443-Racomitrium_varium: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2007601-Racomitrium_varium: analyzed 2 loci; filtered 43 loci; 45 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2007826-Racomitrium_varium: analyzed 2 loci; filtered 24 loci; 26 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2007926-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2008050-Racomitrium_varium: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2008170-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    248 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2008349-Racomitrium_varium: analyzed 2 loci; filtered 47 loci; 49 loci seen.
+    247 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2008625-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    239 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2008708-Racomitrium_varium: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    247 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2008783-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2008869-Racomitrium_varium: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2008913-Racomitrium_varium: analyzed 3 loci; filtered 21 loci; 24 loci seen.
+    367 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2009182-Racomitrium_varium: analyzed 2 loci; filtered 45 loci; 47 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2009261-Racomitrium_varium: analyzed 3 loci; filtered 13 loci; 16 loci seen.
+    389 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2009501-Racomitrium_varium: analyzed 2 loci; filtered 47 loci; 49 loci seen.
+    184 genomic sites, of which 47 were covered by multiple loci (25.5%).
+scaffold-RDOO-2009696-Racomitrium_varium: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    181 genomic sites, of which 47 were covered by multiple loci (26.0%).
+scaffold-RDOO-2009771-Racomitrium_varium: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2009958-Racomitrium_varium: analyzed 2 loci; filtered 31 loci; 33 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2010013-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2010089-Racomitrium_varium: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2010414-Racomitrium_varium: analyzed 2 loci; filtered 59 loci; 61 loci seen.
+    263 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2010566-Racomitrium_varium: analyzed 2 loci; filtered 24 loci; 26 loci seen.
+    249 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2010685-Racomitrium_varium: analyzed 2 loci; filtered 23 loci; 25 loci seen.
+    241 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2010772-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2010909-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2010917-Racomitrium_varium: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    246 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2010931-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2010957-Racomitrium_varium: analyzed 2 loci; filtered 31 loci; 33 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2011071-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2011175-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    250 genomic sites, of which 7 were covered by multiple loci (2.8%).
+scaffold-RDOO-2011210-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    251 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2011234-Racomitrium_varium: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    240 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2011302-Racomitrium_varium: analyzed 2 loci; filtered 23 loci; 25 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2011369-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2011396-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    202 genomic sites, of which 51 were covered by multiple loci (25.2%).
+scaffold-RDOO-2011415-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2011460-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2011480-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2011521-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    248 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2011677-Racomitrium_varium: analyzed 2 loci; filtered 44 loci; 46 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2011864-Racomitrium_varium: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2011910-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2012066-Racomitrium_varium: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2012081-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    250 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2012146-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    253 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2012165-Racomitrium_varium: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2012307-Racomitrium_varium: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    251 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2012481-Racomitrium_varium: analyzed 2 loci; filtered 35 loci; 37 loci seen.
+    233 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2012687-Racomitrium_varium: analyzed 3 loci; filtered 40 loci; 43 loci seen.
+    366 genomic sites, of which 4 were covered by multiple loci (1.1%).
+scaffold-RDOO-2012749-Racomitrium_varium: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2012820-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    249 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2012959-Racomitrium_varium: analyzed 2 loci; filtered 39 loci; 41 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2013047-Racomitrium_varium: analyzed 2 loci; filtered 31 loci; 33 loci seen.
+    263 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2013208-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2013218-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    249 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2013289-Racomitrium_varium: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    172 genomic sites, of which 92 were covered by multiple loci (53.5%).
+scaffold-RDOO-2013312-Racomitrium_varium: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    134 genomic sites, of which 123 were covered by multiple loci (91.8%).
+scaffold-RDOO-2013346-Racomitrium_varium: analyzed 3 loci; filtered 14 loci; 17 loci seen.
+    392 genomic sites, of which 4 were covered by multiple loci (1.0%).
+scaffold-RDOO-2013393-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    247 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2013566-Racomitrium_varium: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2013626-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2013658-Racomitrium_varium: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2013738-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2013793-Racomitrium_varium: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    246 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2013865-Racomitrium_varium: analyzed 3 loci; filtered 9 loci; 12 loci seen.
+    374 genomic sites, of which 4 were covered by multiple loci (1.1%).
+scaffold-RDOO-2013923-Racomitrium_varium: analyzed 2 loci; filtered 24 loci; 26 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2013966-Racomitrium_varium: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    238 genomic sites, of which 4 were covered by multiple loci (1.7%).
+scaffold-RDOO-2014076-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2014138-Racomitrium_varium: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    197 genomic sites, of which 52 were covered by multiple loci (26.4%).
+scaffold-RDOO-2014182-Racomitrium_varium: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2014197-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    237 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2014246-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    148 genomic sites, of which 108 were covered by multiple loci (73.0%).
+scaffold-RDOO-2014267-Racomitrium_varium: analyzed 3 loci; filtered 9 loci; 12 loci seen.
+    379 genomic sites, of which 4 were covered by multiple loci (1.1%).
+scaffold-RDOO-2014271-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2014291-Racomitrium_varium: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    254 genomic sites, of which 4 were covered by multiple loci (1.6%).
+scaffold-RDOO-2014323-Racomitrium_varium: analyzed 3 loci; filtered 27 loci; 30 loci seen.
+    362 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2014386-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2014440-Racomitrium_varium: analyzed 2 loci; filtered 32 loci; 34 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2014567-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    243 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2014764-Racomitrium_varium: analyzed 2 loci; filtered 57 loci; 59 loci seen.
+    239 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2014852-Racomitrium_varium: analyzed 2 loci; filtered 31 loci; 33 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2014942-Racomitrium_varium: analyzed 3 loci; filtered 25 loci; 28 loci seen.
+    392 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2015008-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    132 genomic sites, of which 120 were covered by multiple loci (90.9%).
+scaffold-RDOO-2015111-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    246 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2015170-Racomitrium_varium: analyzed 3 loci; filtered 24 loci; 27 loci seen.
+    330 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2015244-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2015286-Racomitrium_varium: analyzed 2 loci; filtered 28 loci; 30 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2015338-Racomitrium_varium: analyzed 2 loci; filtered 2 loci; 4 loci seen.
+    247 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2015365-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    236 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2015416-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    245 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2015423-Racomitrium_varium: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2015500-Racomitrium_varium: analyzed 2 loci; filtered 31 loci; 33 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2015584-Racomitrium_varium: analyzed 3 loci; filtered 14 loci; 17 loci seen.
+    372 genomic sites, of which 4 were covered by multiple loci (1.1%).
+scaffold-RDOO-2015591-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2015701-Racomitrium_varium: analyzed 2 loci; filtered 37 loci; 39 loci seen.
+    185 genomic sites, of which 76 were covered by multiple loci (41.1%).
+scaffold-RDOO-2015885-Racomitrium_varium: analyzed 2 loci; filtered 24 loci; 26 loci seen.
+    241 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2015934-Racomitrium_varium: analyzed 2 loci; filtered 24 loci; 26 loci seen.
+    252 genomic sites, of which 4 were covered by multiple loci (1.6%).
+scaffold-RDOO-2016028-Racomitrium_varium: analyzed 2 loci; filtered 24 loci; 26 loci seen.
+    243 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016134-Racomitrium_varium: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016170-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    243 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016185-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    271 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016222-Racomitrium_varium: analyzed 2 loci; filtered 24 loci; 26 loci seen.
+    244 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016286-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016315-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016348-Racomitrium_varium: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016365-Racomitrium_varium: analyzed 3 loci; filtered 12 loci; 15 loci seen.
+    385 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016411-Racomitrium_varium: analyzed 2 loci; filtered 37 loci; 39 loci seen.
+    249 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016534-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016568-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    229 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016603-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016635-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    165 genomic sites, of which 96 were covered by multiple loci (58.2%).
+scaffold-RDOO-2016727-Racomitrium_varium: analyzed 2 loci; filtered 28 loci; 30 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016790-Racomitrium_varium: analyzed 2 loci; filtered 30 loci; 32 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016850-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    251 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016895-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2016936-Racomitrium_varium: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    233 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017043-Racomitrium_varium: analyzed 2 loci; filtered 36 loci; 38 loci seen.
+    236 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017084-Racomitrium_varium: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017124-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    245 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017176-Racomitrium_varium: analyzed 2 loci; filtered 43 loci; 45 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017277-Racomitrium_varium: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017307-Racomitrium_varium: analyzed 3 loci; filtered 34 loci; 37 loci seen.
+    361 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017391-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017420-Racomitrium_varium: analyzed 2 loci; filtered 24 loci; 26 loci seen.
+    248 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017503-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017557-Racomitrium_varium: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017622-Racomitrium_varium: analyzed 2 loci; filtered 34 loci; 36 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017708-Racomitrium_varium: analyzed 2 loci; filtered 23 loci; 25 loci seen.
+    225 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017735-Racomitrium_varium: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017818-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017852-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    238 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017872-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2017908-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    214 genomic sites, of which 45 were covered by multiple loci (21.0%).
+scaffold-RDOO-2018039-Racomitrium_varium: analyzed 2 loci; filtered 39 loci; 41 loci seen.
+    249 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018085-Racomitrium_varium: analyzed 2 loci; filtered 40 loci; 42 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018094-Racomitrium_varium: analyzed 3 loci; filtered 9 loci; 12 loci seen.
+    389 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018111-Racomitrium_varium: analyzed 2 loci; filtered 35 loci; 37 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018194-Racomitrium_varium: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    277 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018224-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018285-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    240 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018318-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018335-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018376-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018396-Racomitrium_varium: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    263 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018441-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    253 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018488-Racomitrium_varium: analyzed 2 loci; filtered 24 loci; 26 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018564-Racomitrium_varium: analyzed 2 loci; filtered 45 loci; 47 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018571-Racomitrium_varium: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    248 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018617-Racomitrium_varium: analyzed 3 loci; filtered 25 loci; 28 loci seen.
+    349 genomic sites, of which 18 were covered by multiple loci (5.2%).
+scaffold-RDOO-2018645-Racomitrium_varium: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    240 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018672-Racomitrium_varium: analyzed 2 loci; filtered 39 loci; 41 loci seen.
+    247 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018749-Racomitrium_varium: analyzed 3 loci; filtered 33 loci; 36 loci seen.
+    372 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018808-Racomitrium_varium: analyzed 2 loci; filtered 63 loci; 65 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018942-Racomitrium_varium: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    389 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2018955-Racomitrium_varium: analyzed 2 loci; filtered 26 loci; 28 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019031-Racomitrium_varium: analyzed 2 loci; filtered 23 loci; 25 loci seen.
+    247 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019085-Racomitrium_varium: analyzed 2 loci; filtered 54 loci; 56 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019116-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019161-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    248 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019170-Racomitrium_varium: analyzed 2 loci; filtered 23 loci; 25 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019173-Racomitrium_varium: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    251 genomic sites, of which 4 were covered by multiple loci (1.6%).
+scaffold-RDOO-2019231-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019250-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019264-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    243 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019270-Racomitrium_varium: analyzed 2 loci; filtered 29 loci; 31 loci seen.
+    249 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019326-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019354-Racomitrium_varium: analyzed 2 loci; filtered 28 loci; 30 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019396-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    264 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019423-Racomitrium_varium: analyzed 2 loci; filtered 33 loci; 35 loci seen.
+    243 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019490-Racomitrium_varium: analyzed 2 loci; filtered 44 loci; 46 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019531-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019611-Racomitrium_varium: analyzed 2 loci; filtered 38 loci; 40 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019687-Racomitrium_varium: analyzed 2 loci; filtered 48 loci; 50 loci seen.
+    248 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019694-Racomitrium_varium: analyzed 4 loci; filtered 23 loci; 27 loci seen.
+    505 genomic sites, of which 4 were covered by multiple loci (0.8%).
+scaffold-RDOO-2019731-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019760-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019784-Racomitrium_varium: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019797-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    253 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019811-Racomitrium_varium: analyzed 2 loci; filtered 23 loci; 25 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019841-Racomitrium_varium: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019881-Racomitrium_varium: analyzed 2 loci; filtered 24 loci; 26 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019938-Racomitrium_varium: analyzed 2 loci; filtered 39 loci; 41 loci seen.
+    234 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019965-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    248 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2019967-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020012-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    250 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020027-Racomitrium_varium: analyzed 3 loci; filtered 26 loci; 29 loci seen.
+    226 genomic sites, of which 131 were covered by multiple loci (58.0%).
+scaffold-RDOO-2020098-Racomitrium_varium: analyzed 2 loci; filtered 61 loci; 63 loci seen.
+    230 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020161-Racomitrium_varium: analyzed 2 loci; filtered 37 loci; 39 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020176-Racomitrium_varium: analyzed 3 loci; filtered 11 loci; 14 loci seen.
+    376 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020199-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    250 genomic sites, of which 5 were covered by multiple loci (2.0%).
+scaffold-RDOO-2020204-Racomitrium_varium: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    244 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020221-Racomitrium_varium: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020230-Racomitrium_varium: analyzed 2 loci; filtered 74 loci; 76 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020329-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    264 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020334-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020344-Racomitrium_varium: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    250 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020387-Racomitrium_varium: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    251 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020392-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020407-Racomitrium_varium: analyzed 2 loci; filtered 48 loci; 50 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020435-Racomitrium_varium: analyzed 2 loci; filtered 47 loci; 49 loci seen.
+    248 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020474-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    139 genomic sites, of which 110 were covered by multiple loci (79.1%).
+scaffold-RDOO-2020485-Racomitrium_varium: analyzed 3 loci; filtered 18 loci; 21 loci seen.
+    383 genomic sites, of which 4 were covered by multiple loci (1.0%).
+scaffold-RDOO-2020490-Racomitrium_varium: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020493-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2020497-Racomitrium_varium: analyzed 2 loci; filtered 29 loci; 31 loci seen.
+    241 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2042588-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    113 genomic sites, of which 111 were covered by multiple loci (98.2%).
+scaffold-RDOO-2048801-Racomitrium_varium: analyzed 2 loci; filtered 52 loci; 54 loci seen.
+    105 genomic sites, of which 100 were covered by multiple loci (95.2%).
+scaffold-RDOO-2060880-Racomitrium_varium: analyzed 2 loci; filtered 45 loci; 47 loci seen.
+    132 genomic sites, of which 114 were covered by multiple loci (86.4%).
+scaffold-RDOO-2065372-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    143 genomic sites, of which 97 were covered by multiple loci (67.8%).
+scaffold-RDOO-2068326-Racomitrium_varium: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    148 genomic sites, of which 90 were covered by multiple loci (60.8%).
+scaffold-RDOO-2069578-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    134 genomic sites, of which 122 were covered by multiple loci (91.0%).
+scaffold-RDOO-2071218-Racomitrium_varium: analyzed 2 loci; filtered 32 loci; 34 loci seen.
+    127 genomic sites, of which 125 were covered by multiple loci (98.4%).
+scaffold-RDOO-2073785-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    146 genomic sites, of which 110 were covered by multiple loci (75.3%).
+scaffold-RDOO-2075534-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    173 genomic sites, of which 87 were covered by multiple loci (50.3%).
+scaffold-RDOO-2077852-Racomitrium_varium: analyzed 2 loci; filtered 32 loci; 34 loci seen.
+    147 genomic sites, of which 100 were covered by multiple loci (68.0%).
+scaffold-RDOO-2078845-Racomitrium_varium: analyzed 2 loci; filtered 65 loci; 67 loci seen.
+    128 genomic sites, of which 127 were covered by multiple loci (99.2%).
+scaffold-RDOO-2084913-Racomitrium_varium: analyzed 2 loci; filtered 48 loci; 50 loci seen.
+    136 genomic sites, of which 120 were covered by multiple loci (88.2%).
+scaffold-RDOO-2086471-Racomitrium_varium: analyzed 2 loci; filtered 26 loci; 28 loci seen.
+    154 genomic sites, of which 92 were covered by multiple loci (59.7%).
+scaffold-RDOO-2089772-Racomitrium_varium: analyzed 2 loci; filtered 69 loci; 71 loci seen.
+    146 genomic sites, of which 79 were covered by multiple loci (54.1%).
+scaffold-RDOO-2090446-Racomitrium_varium: analyzed 2 loci; filtered 28 loci; 30 loci seen.
+    194 genomic sites, of which 59 were covered by multiple loci (30.4%).
+scaffold-RDOO-2091790-Racomitrium_varium: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    151 genomic sites, of which 103 were covered by multiple loci (68.2%).
+scaffold-RDOO-2094570-Racomitrium_varium: analyzed 2 loci; filtered 46 loci; 48 loci seen.
+    225 genomic sites, of which 29 were covered by multiple loci (12.9%).
+scaffold-RDOO-2094990-Racomitrium_varium: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    158 genomic sites, of which 90 were covered by multiple loci (57.0%).
+scaffold-RDOO-2097018-Racomitrium_varium: analyzed 2 loci; filtered 38 loci; 40 loci seen.
+    160 genomic sites, of which 94 were covered by multiple loci (58.8%).
+scaffold-RDOO-2097290-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    145 genomic sites, of which 97 were covered by multiple loci (66.9%).
+scaffold-RDOO-2097918-Racomitrium_varium: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    142 genomic sites, of which 119 were covered by multiple loci (83.8%).
+scaffold-RDOO-2098453-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    156 genomic sites, of which 81 were covered by multiple loci (51.9%).
+scaffold-RDOO-2098718-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    145 genomic sites, of which 112 were covered by multiple loci (77.2%).
+scaffold-RDOO-2098847-Racomitrium_varium: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    227 genomic sites, of which 7 were covered by multiple loci (3.1%).
+scaffold-RDOO-2099556-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    212 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2099684-Racomitrium_varium: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    241 genomic sites, of which 14 were covered by multiple loci (5.8%).
+scaffold-RDOO-2100556-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    142 genomic sites, of which 113 were covered by multiple loci (79.6%).
+scaffold-RDOO-2102165-Racomitrium_varium: analyzed 2 loci; filtered 59 loci; 61 loci seen.
+    171 genomic sites, of which 88 were covered by multiple loci (51.5%).
+scaffold-RDOO-2103003-Racomitrium_varium: analyzed 2 loci; filtered 35 loci; 37 loci seen.
+    164 genomic sites, of which 94 were covered by multiple loci (57.3%).
+scaffold-RDOO-2103690-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    156 genomic sites, of which 104 were covered by multiple loci (66.7%).
+scaffold-RDOO-2103853-Racomitrium_varium: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    172 genomic sites, of which 86 were covered by multiple loci (50.0%).
+scaffold-RDOO-2104791-Racomitrium_varium: analyzed 2 loci; filtered 42 loci; 44 loci seen.
+    246 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2105374-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    218 genomic sites, of which 32 were covered by multiple loci (14.7%).
+scaffold-RDOO-2105820-Racomitrium_varium: analyzed 2 loci; filtered 41 loci; 43 loci seen.
+    214 genomic sites, of which 22 were covered by multiple loci (10.3%).
+scaffold-RDOO-2106424-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    140 genomic sites, of which 113 were covered by multiple loci (80.7%).
+scaffold-RDOO-2106677-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    130 genomic sites, of which 125 were covered by multiple loci (96.2%).
+scaffold-RDOO-2106920-Racomitrium_varium: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    237 genomic sites, of which 12 were covered by multiple loci (5.1%).
+scaffold-RDOO-2107142-Racomitrium_varium: analyzed 2 loci; filtered 26 loci; 28 loci seen.
+    139 genomic sites, of which 112 were covered by multiple loci (80.6%).
+scaffold-RDOO-2107891-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    150 genomic sites, of which 110 were covered by multiple loci (73.3%).
+scaffold-RDOO-2108014-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    212 genomic sites, of which 42 were covered by multiple loci (19.8%).
+scaffold-RDOO-2108175-Racomitrium_varium: analyzed 2 loci; filtered 15 loci; 17 loci seen.
+    184 genomic sites, of which 73 were covered by multiple loci (39.7%).
+scaffold-RDOO-2108509-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    167 genomic sites, of which 76 were covered by multiple loci (45.5%).
+scaffold-RDOO-2109274-Racomitrium_varium: analyzed 2 loci; filtered 30 loci; 32 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2109348-Racomitrium_varium: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    255 genomic sites, of which 4 were covered by multiple loci (1.6%).
+scaffold-RDOO-2109533-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    266 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2109646-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    200 genomic sites, of which 45 were covered by multiple loci (22.5%).
+scaffold-RDOO-2109796-Racomitrium_varium: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    209 genomic sites, of which 47 were covered by multiple loci (22.5%).
+scaffold-RDOO-2109875-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    171 genomic sites, of which 94 were covered by multiple loci (55.0%).
+scaffold-RDOO-2110177-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2110191-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    181 genomic sites, of which 70 were covered by multiple loci (38.7%).
+scaffold-RDOO-2110558-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    170 genomic sites, of which 86 were covered by multiple loci (50.6%).
+scaffold-RDOO-2110783-Racomitrium_varium: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    131 genomic sites, of which 112 were covered by multiple loci (85.5%).
+scaffold-RDOO-2111065-Racomitrium_varium: analyzed 2 loci; filtered 34 loci; 36 loci seen.
+    189 genomic sites, of which 56 were covered by multiple loci (29.6%).
+scaffold-RDOO-2111314-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    163 genomic sites, of which 75 were covered by multiple loci (46.0%).
+scaffold-RDOO-2111489-Racomitrium_varium: analyzed 2 loci; filtered 30 loci; 32 loci seen.
+    173 genomic sites, of which 79 were covered by multiple loci (45.7%).
+scaffold-RDOO-2111735-Racomitrium_varium: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2112057-Racomitrium_varium: analyzed 2 loci; filtered 33 loci; 35 loci seen.
+    255 genomic sites, of which 4 were covered by multiple loci (1.6%).
+scaffold-RDOO-2112665-Racomitrium_varium: analyzed 2 loci; filtered 50 loci; 52 loci seen.
+    148 genomic sites, of which 106 were covered by multiple loci (71.6%).
+scaffold-RDOO-2112882-Racomitrium_varium: analyzed 2 loci; filtered 43 loci; 45 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2113284-Racomitrium_varium: analyzed 3 loci; filtered 35 loci; 38 loci seen.
+    379 genomic sites, of which 4 were covered by multiple loci (1.1%).
+scaffold-RDOO-2113396-Racomitrium_varium: analyzed 2 loci; filtered 7 loci; 9 loci seen.
+    247 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2113594-Racomitrium_varium: analyzed 2 loci; filtered 40 loci; 42 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2113731-Racomitrium_varium: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2113830-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2113908-Racomitrium_varium: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    220 genomic sites, of which 36 were covered by multiple loci (16.4%).
+scaffold-RDOO-2114067-Racomitrium_varium: analyzed 2 loci; filtered 29 loci; 31 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2114166-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2114287-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    137 genomic sites, of which 115 were covered by multiple loci (83.9%).
+scaffold-RDOO-2114312-Racomitrium_varium: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    194 genomic sites, of which 64 were covered by multiple loci (33.0%).
+scaffold-RDOO-2114355-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    234 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2114471-Racomitrium_varium: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    249 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2114481-Racomitrium_varium: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    226 genomic sites, of which 3 were covered by multiple loci (1.3%).
+scaffold-RDOO-2114556-Racomitrium_varium: analyzed 2 loci; filtered 36 loci; 38 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2114800-Racomitrium_varium: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2114976-Racomitrium_varium: analyzed 2 loci; filtered 25 loci; 27 loci seen.
+    182 genomic sites, of which 73 were covered by multiple loci (40.1%).
+scaffold-RDOO-2115019-Racomitrium_varium: analyzed 2 loci; filtered 40 loci; 42 loci seen.
+    193 genomic sites, of which 59 were covered by multiple loci (30.6%).
+scaffold-RDOO-2115394-Racomitrium_varium: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    264 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2115573-Racomitrium_varium: analyzed 2 loci; filtered 49 loci; 51 loci seen.
+    237 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2115720-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    250 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2115785-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    239 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2115851-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2115981-Racomitrium_varium: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    248 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2116182-Racomitrium_varium: analyzed 2 loci; filtered 30 loci; 32 loci seen.
+    240 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2116279-Racomitrium_varium: analyzed 2 loci; filtered 49 loci; 51 loci seen.
+    242 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2116424-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2116473-Racomitrium_varium: analyzed 2 loci; filtered 25 loci; 27 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2116626-Racomitrium_varium: analyzed 2 loci; filtered 25 loci; 27 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2116732-Racomitrium_varium: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2116792-Racomitrium_varium: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    192 genomic sites, of which 67 were covered by multiple loci (34.9%).
+scaffold-RDOO-2116843-Racomitrium_varium: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2116864-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2116877-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    248 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2117007-Racomitrium_varium: analyzed 2 loci; filtered 39 loci; 41 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2117125-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    240 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2117192-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    227 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2117260-Racomitrium_varium: analyzed 2 loci; filtered 42 loci; 44 loci seen.
+    236 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2117459-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    249 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2117593-Racomitrium_varium: analyzed 2 loci; filtered 33 loci; 35 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2117635-Racomitrium_varium: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2117664-Racomitrium_varium: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2117704-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    195 genomic sites, of which 49 were covered by multiple loci (25.1%).
+scaffold-RDOO-2117759-Racomitrium_varium: analyzed 4 loci; filtered 33 loci; 37 loci seen.
+    510 genomic sites, of which 4 were covered by multiple loci (0.8%).
+scaffold-RDOO-2117823-Racomitrium_varium: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2117925-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2117970-Racomitrium_varium: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    253 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118052-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118071-Racomitrium_varium: analyzed 2 loci; filtered 13 loci; 15 loci seen.
+    246 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118178-Racomitrium_varium: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    233 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118219-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    219 genomic sites, of which 37 were covered by multiple loci (16.9%).
+scaffold-RDOO-2118307-Racomitrium_varium: analyzed 2 loci; filtered 35 loci; 37 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118369-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    244 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118408-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    232 genomic sites, of which 4 were covered by multiple loci (1.7%).
+scaffold-RDOO-2118428-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118507-Racomitrium_varium: analyzed 2 loci; filtered 67 loci; 69 loci seen.
+    265 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118672-Racomitrium_varium: analyzed 2 loci; filtered 32 loci; 34 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118691-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118741-Racomitrium_varium: analyzed 2 loci; filtered 47 loci; 49 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118864-Racomitrium_varium: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118889-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118900-Racomitrium_varium: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118964-Racomitrium_varium: analyzed 2 loci; filtered 38 loci; 40 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2118996-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119004-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119054-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    245 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119071-Racomitrium_varium: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119102-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119123-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    216 genomic sites, of which 41 were covered by multiple loci (19.0%).
+scaffold-RDOO-2119143-Racomitrium_varium: analyzed 3 loci; filtered 10 loci; 13 loci seen.
+    381 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119170-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    198 genomic sites, of which 41 were covered by multiple loci (20.7%).
+scaffold-RDOO-2119277-Racomitrium_varium: analyzed 2 loci; filtered 44 loci; 46 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119283-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119296-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    240 genomic sites, of which 4 were covered by multiple loci (1.7%).
+scaffold-RDOO-2119357-Racomitrium_varium: analyzed 2 loci; filtered 36 loci; 38 loci seen.
+    252 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119386-Racomitrium_varium: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    246 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119437-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    253 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119438-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    251 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119492-Racomitrium_varium: analyzed 2 loci; filtered 41 loci; 43 loci seen.
+    261 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119517-Racomitrium_varium: analyzed 2 loci; filtered 23 loci; 25 loci seen.
+    254 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119532-Racomitrium_varium: analyzed 2 loci; filtered 5 loci; 7 loci seen.
+    262 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119541-Racomitrium_varium: analyzed 2 loci; filtered 1 loci; 3 loci seen.
+    224 genomic sites, of which 29 were covered by multiple loci (12.9%).
+scaffold-RDOO-2119558-Racomitrium_varium: analyzed 2 loci; filtered 27 loci; 29 loci seen.
+    251 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119590-Racomitrium_varium: analyzed 2 loci; filtered 32 loci; 34 loci seen.
+    260 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119630-Racomitrium_varium: analyzed 3 loci; filtered 22 loci; 25 loci seen.
+    363 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119646-Racomitrium_varium: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119656-Racomitrium_varium: analyzed 2 loci; filtered 10 loci; 12 loci seen.
+    251 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119676-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    253 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119682-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119689-Racomitrium_varium: analyzed 2 loci; filtered 31 loci; 33 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119739-Racomitrium_varium: analyzed 2 loci; filtered 9 loci; 11 loci seen.
+    264 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119747-Racomitrium_varium: analyzed 2 loci; filtered 16 loci; 18 loci seen.
+    234 genomic sites, of which 22 were covered by multiple loci (9.4%).
+scaffold-RDOO-2119766-Racomitrium_varium: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    174 genomic sites, of which 72 were covered by multiple loci (41.4%).
+scaffold-RDOO-2119776-Racomitrium_varium: analyzed 2 loci; filtered 4 loci; 6 loci seen.
+    258 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119781-Racomitrium_varium: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    256 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119790-Racomitrium_varium: analyzed 3 loci; filtered 10 loci; 13 loci seen.
+    387 genomic sites, of which 4 were covered by multiple loci (1.0%).
+scaffold-RDOO-2119798-Racomitrium_varium: analyzed 2 loci; filtered 6 loci; 8 loci seen.
+    252 genomic sites, of which 4 were covered by multiple loci (1.6%).
+scaffold-RDOO-2119817-Racomitrium_varium: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    263 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119820-Racomitrium_varium: analyzed 3 loci; filtered 0 loci; 3 loci seen.
+    382 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119822-Racomitrium_varium: analyzed 2 loci; filtered 3 loci; 5 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119834-Racomitrium_varium: analyzed 2 loci; filtered 12 loci; 14 loci seen.
+    245 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119845-Racomitrium_varium: analyzed 2 loci; filtered 17 loci; 19 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119851-Racomitrium_varium: analyzed 3 loci; filtered 72 loci; 75 loci seen.
+    371 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119902-Racomitrium_varium: analyzed 2 loci; filtered 11 loci; 13 loci seen.
+    263 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119909-Racomitrium_varium: analyzed 2 loci; filtered 21 loci; 23 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119921-Racomitrium_varium: analyzed 2 loci; filtered 19 loci; 21 loci seen.
+    257 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119932-Racomitrium_varium: analyzed 2 loci; filtered 20 loci; 22 loci seen.
+    249 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119945-Racomitrium_varium: analyzed 2 loci; filtered 22 loci; 24 loci seen.
+    259 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119949-Racomitrium_varium: analyzed 3 loci; filtered 6 loci; 9 loci seen.
+    374 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119951-Racomitrium_varium: analyzed 2 loci; filtered 8 loci; 10 loci seen.
+    256 genomic sites, of which 7 were covered by multiple loci (2.7%).
+scaffold-RDOO-2119958-Racomitrium_varium: analyzed 2 loci; filtered 14 loci; 16 loci seen.
+    275 genomic sites, of which 0 were covered by multiple loci (0.0%).
+scaffold-RDOO-2119961-Racomitrium_varium: analyzed 2 loci; filtered 18 loci; 20 loci seen.
+    255 genomic sites, of which 0 were covered by multiple loci (0.0%).
+END batch_progress
+
+BEGIN samples_per_loc_prefilters
+# Distribution of valid samples matched to a catalog locus prior to filtering.
+n_samples	n_loci
+0	5964
+1	2459
+2	607
+3	318
+4	232
+5	175
+6	119
+7	113
+8	101
+9	105
+10	98
+11	363
+12	141
+13	70
+14	45
+15	59
+16	52
+17	53
+18	39
+19	30
+20	22
+21	26
+22	32
+23	26
+24	42
+25	18
+26	31
+27	20
+28	24
+29	32
+30	14
+31	16
+32	21
+33	20
+34	25
+35	17
+36	22
+37	21
+38	16
+39	23
+40	35
+41	36
+42	30
+43	73
+44	458
+45	353
+46	8
+END samples_per_loc_prefilters
+
+BEGIN missing_samples_per_loc_prefilters
+# Distribution of missing samples for each catalog locus prior to filtering.
+# Absent samples at locus	Count
+0	8
+1	353
+2	458
+3	73
+4	30
+5	36
+6	35
+7	23
+8	16
+9	21
+10	22
+11	17
+12	25
+13	20
+14	21
+15	16
+16	14
+17	32
+18	24
+19	20
+20	31
+21	18
+22	42
+23	26
+24	32
+25	26
+26	22
+27	30
+28	39
+29	53
+30	52
+31	59
+32	45
+33	70
+34	141
+35	363
+36	98
+37	105
+38	101
+39	113
+40	119
+41	175
+42	232
+43	318
+44	607
+45	2459
+46	5964
+END missing_samples_per_loc_prefilters
+
+BEGIN snps_per_loc_prefilters
+# Distribution of the number of SNPs per catalog locus prior to filtering.
+n_snps	n_loci
+0	8832
+1	1133
+2	830
+3	630
+4	415
+5	285
+6	155
+7	107
+8	74
+9	36
+10	22
+11	19
+12	8
+13	8
+14	10
+15	6
+16	2
+17	5
+18	5
+19	1
+21	1
+22	4
+23	1
+24	3
+28	1
+31	1
+32	1
+34	1
+35	2
+37	2
+38	1
+40	1
+47	1
+54	1
+END snps_per_loc_prefilters
+
+BEGIN samples_per_loc_postfilters
+# Distribution of valid samples matched to a catalog locus after filtering.
+n_samples	n_loci
+19	35
+20	39
+21	34
+22	34
+23	30
+39	3
+40	11
+41	27
+42	30
+43	73
+44	458
+45	353
+46	8
+END samples_per_loc_postfilters
+
+BEGIN missing_samples_per_loc_postfilters
+# Distribution of missing samples for each catalog locus after filtering.
+# Absent samples at locus	Count
+0	8
+1	353
+2	458
+3	73
+4	30
+5	27
+6	11
+7	3
+23	30
+24	34
+25	34
+26	39
+27	35
+END missing_samples_per_loc_postfilters
+
+BEGIN snps_per_loc_postfilters
+# Distribution of the number of SNPs per catalog locus (after filtering).
+n_snps	n_loci
+0	678
+1	298
+2	108
+3	30
+4	12
+5	5
+6	3
+9	1
+END snps_per_loc_postfilters
