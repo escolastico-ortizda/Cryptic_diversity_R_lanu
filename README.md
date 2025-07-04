@@ -39,9 +39,8 @@ The following software and R packages were employed for the analyses:
 
 ## 3. Data availability
 The sequence data is available on the Sequence Read Archive repository (NCBI) under the [BioProject PRJNA1023519](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1023519). The sequence accession numbers for the samples include SRR26265052 to SRR26265159. Previously published sequences added to our dataset can be retrieved from the [BioProject PRJNA735773](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA735773).
-[Files](Data/) and [scripts](Scripts/) used for the genomic analyses are provided in the repository. 
+[Files](Data/) used for all the analyses are provided in the repository. The [scripts](Scripts/) for the genomic analyses are stored as .txt files or similar formats. The detailed analyses of the covariation between genetic groups and microbial communities (bacterial and diazotrophic) are presented  in separate workflows:
 
-The detailed analyses of the covariation between genetic groups and microbial communities (bacterial and diazotrophic) are presented  in separate workflows.
 ### [Bacterial workflow: Analyses based on metabarcoding  of the 16S rRNA gene.](https://escolastico-ortizda.github.io/Cryptic_diversity_Bacteria/)
 ### [Diazotroph workflow: Analyses based on metabarcoding of the nifH gene.](https://escolastico-ortizda.github.io/Cryptic_diversity_Diazotroph/)
 
