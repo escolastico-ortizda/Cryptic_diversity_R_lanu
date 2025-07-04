@@ -39,8 +39,11 @@ The following software and R packages were employed for the analyses:
 
 ## 3. Data availability
 The sequence data is available on the Sequence Read Archive repository (NCBI) under the [BioProject PRJNA1023519](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1023519). The sequence accession numbers for the samples include SRR26265052 to SRR26265159. Previously published sequences added to our dataset can be retrieved from the [BioProject PRJNA735773](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA735773).
+[Files](Data/) and [scripts](Scripts/) used for the genomic analyses are provided in the repository. 
 
-Files used for analyses are provided in the dataset folder.
+The detailed analyses of the covariation of genetic groups with the bacterial and diazotrophic communities are presented separately in workflows.
+### [Bacterial work flow: Analyses based on metabarcoding  of the 16S rRNA gene.](https://escolastico-ortizda.github.io/Cryptic_diversity_Bacteria/)
+### [Diazotroph workflow: Analyses based on metabarcoding of the nifH gene.](https://escolastico-ortizda.github.io/Cryptic_diversity_Diazotroph/)
 
 Reference-based alignments were performed using two transcriptomes of _R. elongatum_ Ehrh. ex Frisvoll [(ID: ABCD)](https://www.ncbi.nlm.nih.gov/biosample/SAMEA104170995/) and _R. varium_ (Mitt.) A.Jaeger [(ID: RDOO)](https://www.ncbi.nlm.nih.gov/biosample/?term=Racomitrium+varium) (Carpenter et al., 2019; Leebens-Mack et al., 2019).
 
