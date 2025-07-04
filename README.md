@@ -41,14 +41,14 @@ The following software and R packages were employed for the analyses:
 The sequence data is available on the Sequence Read Archive repository (NCBI) under the [BioProject PRJNA1023519](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1023519). The sequence accession numbers for the samples include SRR26265052 to SRR26265159. Previously published sequences added to our dataset can be retrieved from the [BioProject PRJNA735773](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA735773).
 [Files](Data/) and [scripts](Scripts/) used for the genomic analyses are provided in the repository. 
 
-The detailed analyses of the covariation of genetic groups with the bacterial and diazotrophic communities are presented separately in workflows.
-### [Bacterial work flow: Analyses based on metabarcoding  of the 16S rRNA gene.](https://escolastico-ortizda.github.io/Cryptic_diversity_Bacteria/)
+The detailed analyses of the covariation between genetic groups and microbial communities (bacterial and diazotrophic) are presented  in separate workflows.
+### [Bacterial workflow: Analyses based on metabarcoding  of the 16S rRNA gene.](https://escolastico-ortizda.github.io/Cryptic_diversity_Bacteria/)
 ### [Diazotroph workflow: Analyses based on metabarcoding of the nifH gene.](https://escolastico-ortizda.github.io/Cryptic_diversity_Diazotroph/)
 
 Reference-based alignments were performed using two transcriptomes of _R. elongatum_ Ehrh. ex Frisvoll [(ID: ABCD)](https://www.ncbi.nlm.nih.gov/biosample/SAMEA104170995/) and _R. varium_ (Mitt.) A.Jaeger [(ID: RDOO)](https://www.ncbi.nlm.nih.gov/biosample/?term=Racomitrium+varium) (Carpenter et al., 2019; Leebens-Mack et al., 2019).
 
 ## 4. Citation
-If you use part or the entire code in your work, please cite it using the following referece: AVAILABLE SOON.
+If you use part or the entire code in your work, please cite it using the following reference: (Escolastico-Ortiz, D.A., Derome, N., & Villarreal-A., J.C. 2025. Decoding cryptic diversity of moss populations in a forest-tundra ecotone. Preprint.)[https://doi.org/10.1101/2025.06.25.660410].
 
 > [!NOTE]
 Be aware that the code may contain issues related to updated software or packages and IS NOT intended to serve as an optimized pipeline but as supplementary information for the research.
