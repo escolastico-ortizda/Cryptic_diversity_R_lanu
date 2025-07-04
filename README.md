@@ -48,7 +48,7 @@ The [files](Data/) used for all the analyses are provided in the repository. The
 ### [Diazotroph workflow: Analyses based on metabarcoding of the nifH gene.](https://escolastico-ortizda.github.io/Cryptic_diversity_Diazotroph/)
 
 ## 4. Citation
-If you use part or the entire code in your work, please cite it using the following reference: (Escolastico-Ortiz, D.A., Derome, N., & Villarreal-A., J.C. 2025. Decoding cryptic diversity of moss populations in a forest-tundra ecotone. Preprint.)[https://doi.org/10.1101/2025.06.25.660410].
+If you use part or the entire code in your work, please cite it using the following reference: **[Escolastico-Ortiz, D.A., Derome, N., & Villarreal-A., J.C. 2025. Decoding cryptic diversity of moss populations in a forest-tundra ecotone. Preprint.](https://doi.org/10.1101/2025.06.25.660410)**.
 
 > [!NOTE]
 Be aware that the code may contain issues related to updated software or packages and IS NOT intended to serve as an optimized pipeline but as supplementary information for the research.
