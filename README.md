@@ -42,7 +42,7 @@ The sequence data is available on the Sequence Read Archive repository (NCBI) un
 
 Reference-based alignments were performed using two transcriptomes of _R. elongatum_ Ehrh. ex Frisvoll [(ID: ABCD)](https://www.ncbi.nlm.nih.gov/biosample/SAMEA104170995/) and _R. varium_ (Mitt.) A.Jaeger [(ID: RDOO)](https://www.ncbi.nlm.nih.gov/biosample/?term=Racomitrium+varium) (Carpenter et al., 2019; Leebens-Mack et al., 2019).
 
-[Test](https://htmlpreview.github.io/?https://github.com/escolastico-ortizda/Cryptic_diversity_R_lanu/blob/main/Scripts/Diazotrophic_genotype_analyses.html)
+[Test](https://htmlpreview.github.io/?https://github.com/escolastico-ortizda/Cryptic_diversity_R_lanu/blob/main/Scripts/index.html)
 
 The [files](Data/) used for all the analyses are provided in the repository. The [scripts](Scripts/) for the genomic analyses are stored as .txt files or similar formats. The detailed analyses of the covariation between genetic groups and microbial communities (bacterial and diazotrophic) are presented  in separate workflows:
 
